@@ -1,0 +1,9 @@
+feature film
+illumination
+montage
+newsreel
+depth of field
+high definition
+instant camera
+panorama
+tripod

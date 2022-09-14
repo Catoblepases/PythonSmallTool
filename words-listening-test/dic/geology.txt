@@ -5,7 +5,8 @@ alien
 active volcano 
 altitude 
 aluminum 
-Antarctic Antarctica 
+Antarctic 
+Antarctica 
 apply 
 aquifer 
 archipelago 
@@ -21,8 +22,10 @@ bored hole
 canal 
 canyon 
 cataclysm 
-cavern cave 
-channel strait 
+cavern 
+cave 
+channel 
+strait 
 chilly 
 cliff 
 coast 
@@ -68,7 +71,8 @@ diversity
 dormant volcano 
 dormant 
 drill 
-earthquake quake 
+earthquake 
+quake 
 ecological 
 edge 
 elevation 
@@ -152,7 +156,8 @@ knot
 landlocked area 
 latitude 
 lava 
-layer stratum 
+layer 
+stratum 
 lead 
 limestone 
 lithosphere 
@@ -174,7 +179,7 @@ mid-ocean ridge
 mineral 
 molten lava 
 morphology 
-mountain chain Ill 
+mountain chain
 mountain range 
 
 
@@ -311,7 +316,7 @@ venomous
 vertical 
 vibration 
 volcanic ash 
-volcanic dust Ill 
+volcanic dust
 volcanic island 
 volcanic 
 volcano eruption 

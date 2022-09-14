@@ -1,17 +1,16 @@
-from ast import If, main
 import json
 import os
-from platform import system
 import sys
-import PyQt5
 
 
 class WordsReview:
-    def __init__(self, filename="dic/test.txt", mode="regular"):
+    def __init__(self, filename="dic/test.txt", mode="regular", save=True, listenMode=False):
         self.alphabet = {}
         self.filename = filename
         self.output_dir = "output/"
         self.mode = mode
+        self.saveFile = save
+        self.listenMode = listenMode
         with open(path, 'r') as f:
             while True:
                 line = f.readline()
@@ -42,8 +41,9 @@ class WordsReview:
         return True
 
     def save(self):
-        filename = WordsReview.delete_extension(os.path.basename(filename))
-        self.save_as_json(self.output_dir+filename+".json")
+        filename = WordsReview.delete_extension(
+            os.path.basename(self.filename))
+        # self.save_as_json(self.output_dir+filename+".json")
         self.save_as_txt(filename)
 
     def save_as_json(self, output):
@@ -69,31 +69,41 @@ class WordsReview:
         simpleMode = self.mode == 'simple'
         alphabet = self.alphabet.copy()
         for line, _ in alphabet.items():
-            os.system("clear")
-            os.system("say "+line)
             # add to dictionary with difficulty level
-            level = 1  # 2 read-and-listen-not-understand 1 only-listen-not-understand
-            if (self.deal_with_typing(input("mark or not: \n"))):
-                if (not simpleMode):
-                    print(line+'\n')
-                    level += 1 if self.deal_with_typing(
-                        input("mark or not: \n")) else 0
-                self.add_to_alphabet(line, level)
-            os.system("trans en:zh "+"\""+line+"\"")
-            if input("mark or not: \n") != '':
-                self.add_to_alphabet(line, 1)
-        self.save()
+            while True:
+                level = self.alphabet[line]
+                os.system("clear")
+                os.system("say "+line)
+                if (self.deal_with_typing(input("mark or not: \n"))):
+                    self.alphabet[line] += 1
+                    if (not simpleMode):
+                        print(line+'\n')
+                        self.alphabet[line] += 1 if self.deal_with_typing(
+                            input("mark or not: \n")) else 0
+                os.system("trans en:zh "+"\""+line+"\"")
+                self.alphabet[line] += 1 if self.deal_with_typing(
+                    input("mark or not: \n")) else 0
+                if not self.listenMode or level == self.alphabet[line]:
+                    break
+        if self.saveFile:
+            self.save()
 
 
 if __name__ == "__main__":
     print(sys.argv)
     mode = "regular"
+    save = True
+    listenMode = False
     if (len(sys.argv) <= 1):
         path = "dic/test.txt"
     else:
         path = sys.argv[1]
-    if (len(sys.argv) == 3 and sys.argv[2] == '-s'):
+    if ('-s' in sys.argv):
         mode = 'simple'
+    if '--save=false' in sys.argv or '-ns' in sys.argv:
+        save = False
+    if '-l' in sys.argv:
+        listenMode = True
 
-    object = WordsReview(path, mode)
+    object = WordsReview(path, mode, save, listenMode)
     object.main()
