@@ -1,0 +1,102 @@
+GEOGRAPHY 
+altitude 
+Antarctica
+Arctic 
+basin 
+canyon 
+cavern cave 
+channel 
+strait
+continent 
+continental drift 
+continental island 
+continental shelf 
+coral island 
+elevation 
+equator 
+evaporation 
+expedition 
+formation 
+frigid 
+frost heaving 
+geographer 
+geography 
+hemisphere 
+horizon 
+Island 
+islet 
+latitude 
+longitude 
+lowland 
+meridian 
+ocean bottom 
+parallel 
+peninsular 
+plain 
+plateau highland 
+ranges 
+salinity 
+spreading 
+sediment 
+subterranean 
+temperate latitudes
+terrestrial heat geothermal 
+terrestrial magnetism geomagnetism 
+
+
+temperate 
+terrain 
+terrestrial 
+time zone
+topography 
+tropical 
+tropics 
+valley 
+volcanic Island 
+
+
+ancestor 
+ancient civilization 
+anthropologist 
+anthropology 
+antique 
+antiquity 
+archaeologist 
+archaeology 
+archeologist 
+archeology 
+artifact 
+Bronze Age 
+cave man 
+clan 
+cluster 
+cranial 
+Cultural relics 
+dinosaur 
+ecological anthropologist 
+excavate unearth 
+excavation 
+fossil 
+hominid 
+homogeneous 
+Iron Age 
+Mesolithic
+morphology 
+Neolithic Age 
+Neolithic 
+origin 
+originate 
+paleoanthropologist
+paleoanthropology
+Paleolithic Age 
+Paleolithic 
+paleontology 
+prehistoric 
+psychological anthropologist 
+relic 
+remains 
+Rock painting 
+ruins 
+skull 
+Stone Age 
+tribe 

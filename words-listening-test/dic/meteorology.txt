@@ -1,0 +1,160 @@
+atmosphere 
+avalanche 
+blizzard snowstorm 
+blizzard 
+breeze 
+climate 
+condense 
+convection 
+crystal 
+current 
+cyclone 
+damp wet moist
+
+devastation 
+
+farming 
+agrarian 
+agricultural 
+aquaculture 
+barley 
+
+beet 
+broccoli 
+buffalo 
+cabbage 
+carrot 
+cattle 
+celery
+clay 
+clod 
+com 
+cotton 
+cowshed 
+cucumber 
+cultivate till 
+dairy 
+dairy farm 
+eggplant 
+fish farm 
+fodder feed 
+fowl poultry 
+dew 
+disaster calamity 
+downpour
+drizzle 
+droplet 
+drought 
+dust storm 
+evaporate 
+fog mist 
+forecast predict 
+forecaster 
+frost 
+funnel
+gale 
+hail 
+
+garlic 
+grain cereal 
+Granary 
+use 
+Harrow
+Rake
+harvest 
+hay 
+haystack 
+horticulture 
+Husbandry
+Hydroponics 
+Insecticide 
+Irrigate
+
+humidity 
+hurricane 
+lightening 
+
+weather 
+husbandry 
+
+hydroponics 
+
+
+land soil 
+leek 
+lettuce 
+livestock 
+lust 
+manure fertilizer 
+mill 
+millet 
+mustard 
+
+forecast 
+
+meteorologist 
+meteorology 
+moisture 
+precipitation 
+
+sandstorm 
+saturate 
+severe tropical storm 
+nursery 
+oats 
+onion 
+orchard 
+pasture 
+pea 
+peanut 
+pepper 
+pick 
+pigpen ho 
+pilot 
+plantation 
+plot patch 
+potato 
+pumpkin 
+radish 
+ranch 
+rice 
+ridge 
+roost he 
+rust 
+rye 
+seedbed 
+sesame 
+sheepfold 
+shower 
+smog 
+submerge 
+tempest storm 
+thunder 
+twister 
+tornado 
+tropical depression 
+troposphere 
+typhoon 
+vapor 
+whirlwind 
+
+meteorologist 
+shovel 
+sickle 
+silt 
+soil conservation 
+soil erosion 
+sorghum 
+Sow
+soybean 
+spade 
+spinach 
+spray 
+stable 
+tomato 
+tractor 
+trough 
+vegetable 
+weed 
+wheat 
+radish

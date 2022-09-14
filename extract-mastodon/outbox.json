@@ -1,0 +1,2715 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "id": "outbox.json",
+  "type": "OrderedCollection",
+  "totalItems": 59,
+  "orderedItems": [
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106867385096667707/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-03T11:01:26Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106867385096667707",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-03T11:01:26Z",
+        "url": "https://mstdn.social/@nonpointsfr/106867385096667707",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106867385096667707",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-03:objectId=61822980:objectType=Conversation",
+        "content": "\u003cp\u003e发现一种思维惯性：调成黑暗模式可以更舒适地说垃圾话\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e发现一种思维惯性：调成黑暗模式可以更舒适地说垃圾话\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106867385096667707/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106867385096667707/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106867385096667707/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "GcIp6kZGp07CvwIFyySdH+SqPBwYRsp1NrMrDg6XE+qn6MJXK3xL8vDegZZYcpjYKFzCsM4v5Nv2G/IoPt/yCPgN4OfA9NTnYcNmDhgYLAsuzAQTU5SKK0FDkWiF1ZprsnCqO9LuDj81fNyQseM55v3L40pxjNODez7Xau6779n7+DTkBVyXbMd1a6xA0K0/+w4IYKeDGbGHUtxpkOyXDOxNf1cv2MMVwO2CWxbmPc0syvn4oEGAy5aQAIKz8vwhl2+hHCkSDn5pl6o2q0Cx1gIJZhcJvM+4LWzuMFDVQUxonW0N9tBKzybFcSoNlEKFt+RZA/p6s+1pL+k6xk/Lhw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-03T14:32:46Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020",
+        "type": "Note",
+        "summary": "但是这是没有办法的事情，",
+        "inReplyTo": null,
+        "published": "2021-09-03T14:32:46Z",
+        "url": "https://mstdn.social/@nonpointsfr/106868216049090020",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": true,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-03:objectId=61836784:objectType=Conversation",
+        "content": "\u003cp\u003e但是这是没有办法的事情，有人会同情生活一团糟的人，没有任何生活可言的人，但是不可能会产生与它建立友情的念头。我没有拥有友情的资格，我没有什么能够分享的生活，我没有生活可言。姐姐说互联网不是用来分享观点的，但我除了观点就一无所有了。大部分时候，我什么也做不了，我不知道该如何处理自己的生活，如何建立社会支持系统，如何去做这些事情，但也只能去做啊，不存在所谓拯救者的角色。坐在窗台上好希望有人从背后推我一把，坐在公车里会想如果此刻被人捅了该有多好，想要被杀死，好想被杀死。从来没有计划过什么要怎样完美的死亡，无论怎样的死法都可以，丑陋的疼痛的，一无所有的，但是不要让周围的人知道我是自己死掉的，被杀死最多稍微感叹，如果被它们认为我是自己死掉的那我马上连最后的尊严也完全没有了，好想建立一个社会支持系统之后再死，这样自杀的时候也会是拥有尊严的死亡。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e但是这是没有办法的事情，有人会同情生活一团糟的人，没有任何生活可言的人，但是不可能会产生与它建立友情的念头。我没有拥有友情的资格，我没有什么能够分享的生活，我没有生活可言。姐姐说互联网不是用来分享观点的，但我除了观点就一无所有了。大部分时候，我什么也做不了，我不知道该如何处理自己的生活，如何建立社会支持系统，如何去做这些事情，但也只能去做啊，不存在所谓拯救者的角色。坐在窗台上好希望有人从背后推我一把，坐在公车里会想如果此刻被人捅了该有多好，想要被杀死，好想被杀死。从来没有计划过什么要怎样完美的死亡，无论怎样的死法都可以，丑陋的疼痛的，一无所有的，但是不要让周围的人知道我是自己死掉的，被杀死最多稍微感叹，如果被它们认为我是自己死掉的那我马上连最后的尊严也完全没有了，好想建立一个社会支持系统之后再死，这样自杀的时候也会是拥有尊严的死亡。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020/replies?min_id=106876940006903623\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020/replies",
+            "items": [
+              "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623"
+            ]
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "OLyJLIDPivY+m0hEJx+zh/sY43fsP0qn6k9wMObMPgSK08WOP92gT4BkU5A/TPXMS2WQRHmIeMAC2266n7/fRzgwWCOGVhiT+RYm2YJ4cr8NWinVnQSY71ELnwZ4HJ5QD9xB98P2tVEYcEX7qN6UtO4OyvYQIPTMEWQ7o10ZmA2hiVCdiZQ/YMz5vDo8Z3U2FrW37oMRg4EItCu66tE9dDygwsip/iMgJYNRuOQ41OaE+BgPo7QYQ9WRLP9YEHg8VDd/D+DWCFgvQOj9qy1JP1OswMJnXq4OdmCjWHwIotIabmZRRWRFXRWA/ZDTLIv6ScyFQmXajR5AEm4/i7xNqg=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106868448956080845/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-03T15:32:00Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106868448956080845",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-03T15:32:00Z",
+        "url": "https://mstdn.social/@nonpointsfr/106868448956080845",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106868448956080845",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-03:objectId=61841164:objectType=Conversation",
+        "content": "\u003cp\u003e偶尔很受不了健康人的文字\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e偶尔很受不了健康人的文字\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106868448956080845/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106868448956080845/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106868448956080845/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "0xAfRpEkN0tIKn3EJeCCkQmH+sPIXyBD/5mB7/9ReBGxmzjQTytvSDllDkuQmXONjVLkmgWW0DzIALN2qE4b5IT9rL5hRi6OglpuurHi+XDT+bPYGFFq3O4c5M1c5CTsEguesPaQhfkssgwu3N113pBMxgIztbCmWSRRHdyaPcc0GqWGtvnFjpddrX+9207OCOVAuBliInqqOt96GhhMt7DgmeWCVbXpKJPaZRo9WNqC0EELVVH9cPn4nJoGdAeScTNCSemqoGGO69v1Z2XvWDP3Jch1urHCgEj58yRHe+m/5yVCIGubNftRO6HNV6i6CrDMBThPFc5LyEcRXntHXQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106868535098108261/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-03T15:53:54Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106868535098108261",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-03T15:53:54Z",
+        "url": "https://mstdn.social/@nonpointsfr/106868535098108261",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106868535098108261",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-03:objectId=61842682:objectType=Conversation",
+        "content": "\u003cp\u003e避不开的事情，感情会美化它，让它陷入大雾里，面目模糊而任人拆解，怎么能要求她在这样的情绪中看清楚\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e避不开的事情，感情会美化它，让它陷入大雾里，面目模糊而任人拆解，怎么能要求她在这样的情绪中看清楚\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106868535098108261/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106868535098108261/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106868535098108261/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "cCqLcROwUrNDfh4PKOqv+hPi2rWdE8XS0TEi8BMq7xbCylDTLoswP463cb/9zJnef8FWl7ftQ0jDiDGtSanFEZp3eCiYitzGS9wOwbsgOQxQN02UE3jQIQl1kya9U2iLtYO9KuPOEmyzbD/TUzg9gxW+vBqRxtF3BPRh0MRoqAsz+rOr69bVr6PAEg7LMRR+Wd6gt4DwNw5zs5SWtPte3A0X2W81VxZlUE8i5w34kiUAVXWe8MR40rCesWzo8u5gJ24NCo3P2DC77SwxVQ8va4bCW0KHAuEQBu/is8oyQBe/XUyRPmHwQPqFLgjzZcooHsqo+nWPGEI+30t8bIU8iQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106868837030012656/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-03T17:10:41Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106868837030012656",
+        "type": "Note",
+        "summary": "她那么好，",
+        "inReplyTo": null,
+        "published": "2021-09-03T17:10:41Z",
+        "url": "https://mstdn.social/@nonpointsfr/106868837030012656",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": true,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106868837030012656",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-03:objectId=61847569:objectType=Conversation",
+        "content": "\u003cp\u003e她那么好，她比她仰望的人好得多，比她认为的美好得多，但她把我推到一边，只愿意用疏离的目光注视我。她爱人的时候就好像把自己深深地埋在沼泽里，埋在比地面更低一层的地方，埋在狂风暴雨也无法掀开的封闭气室里，或许对她来说窒息也是使之绚烂的一部分。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e她那么好，她比她仰望的人好得多，比她认为的美好得多，但她把我推到一边，只愿意用疏离的目光注视我。她爱人的时候就好像把自己深深地埋在沼泽里，埋在比地面更低一层的地方，埋在狂风暴雨也无法掀开的封闭气室里，或许对她来说窒息也是使之绚烂的一部分。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106868837030012656/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106868837030012656/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106868837030012656/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "t69+bGUwxyh9sWI900mGqZLtPUKKO6miAoPyuu1tP99u62nhku8tIJKST5UpPZ/Z1j+WCgmMOjxLrf9u+dfUUyhULTAk2dnHcZKPZiu5BV/LSieqZzLdNlkfRtWM7lyPOba7j1wQ0wYfl94WLfAn7IfCXevR9k+7Kec7iDcb/h74nUisnGuVwDHFOuXwWNOuFJcyjtsIPAKpONLiu7wPtsC3ucoeviIsdgdLAv1RCJB2I+FIQbLe/JT4wH1tmEJ//yOmrUtLRr6b1y9pbtEsOjRyYWrducive11gbOz3e3o7nRC5Gjmj4Oe9681CCu9Nz85teTnJbPdb6zRCnSJ4PA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106874442711677603/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-04T16:56:17Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106874442711677603",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-04T16:56:17Z",
+        "url": "https://mstdn.social/@nonpointsfr/106874442711677603",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106874442711677603",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-04:objectId=61915256:objectType=Conversation",
+        "content": "\u003cp\u003e我感觉我要从这样的状况中解脱出来，是必须要尝试外力介入的……至少首先避开自我审核这一步……\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我感觉我要从这样的状况中解脱出来，是必须要尝试外力介入的……至少首先避开自我审核这一步……\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106874442711677603/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106874442711677603/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106874442711677603/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "FQyEmXzECBVIMJc0D2jQF89Sbz5mN3pu6mg32DrhwCHT4oK3+w3RWz2qkLm1Y6/MZoc7BSTk8w91InPW0tZzPJQ0KfjTH4fhaF+z4R6WkS4vKS89JYJTd0kPrZBu6iUvwREd8ltU92KZE2z/UShJjLLXlQhOiydSep8nribXx3WO3t/2LTmrtEN3AZpCnxSFmcAJBGpUEddisWL0s/nVl2ugQm7ypUyN0HSvNGHoUXn0Nr3hdXlSgJAIdl56GevceJOPyEK/LU1LPbleaw/FvXcxx2UiejIfGEkNVZTicg8xYuch3UxlicDhIogZOzoQ9Jc1vYwnxrSkGWCLSoMF6g=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106876894023530488/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T03:19:41Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106876894023530488",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T03:19:41Z",
+        "url": "https://mstdn.social/@nonpointsfr/106876894023530488",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106876894023530488",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61940749:objectType=Conversation",
+        "content": "\u003cp\u003e没有生活可言\u003c/p\u003e",
+        "contentMap": { "zh": "\u003cp\u003e没有生活可言\u003c/p\u003e" },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106876894023530488/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106876894023530488/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106876894023530488/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "Zf7dmMeqyd8HcWFW2wx9XeppO/btB/YIrkzA8roLmlP94c+cZU7H6tZGR/j0Av+SxwnIdzWdySJqGW6Xu9JzMVdbfGgqKNLG+0BCnT9IKSU8tzBh3ovsIgNg13upQQdE3pXf6utoPsogAO3V29ElRI8lAJNwdXRzbNOrmjJXat1bhDpz4G3/fNB8zNfj064a7kCF35tkNmAiLGgDXel7BzUqJloD/mQldcTLTjCsM6f5DUT2JPATG5yZlBJ2tAjRV3+8o2Tdylmb+ecjZ5PJy9sX73QI/ao2Vir42rUQ1X1a2u/VqPHJEroh/2htzPR5YPI6n05zOpVkjX3kPH5tYQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T03:31:23Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623",
+        "type": "Note",
+        "summary": "但是这是没有办法的事情，",
+        "inReplyTo": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020",
+        "published": "2021-09-05T03:31:23Z",
+        "url": "https://mstdn.social/@nonpointsfr/106876940006903623",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": true,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623",
+        "inReplyToAtomUri": "https://mstdn.social/users/nonpointsfr/statuses/106868216049090020",
+        "conversation": "tag:mstdn.social,2021-09-03:objectId=61836784:objectType=Conversation",
+        "content": "\u003cp\u003e原因大概是我一直希望自己是正常人，更贴近正常的建模，无法接受自己存活的现实。我彻底与其分割了倒还好说，但我也并不是有多么不正常，正好处在，我能够理解他们却模仿不了他们的奇点上。三岛由纪夫评价太宰治，大意是，他的问题都可以通过运动调整生活节律来解决，用不着诉诸文学。这大概就是人格的分界。有人期望获得正常的底色，而有人会倾向于随着惯性漂浮。而我认为自己不期望获得正常的底色，却也想拥有一个社会支持系统，一旦有了欲求，就无法安于自身了。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e原因大概是我一直希望自己是正常人，更贴近正常的建模，无法接受自己存活的现实。我彻底与其分割了倒还好说，但我也并不是有多么不正常，正好处在，我能够理解他们却模仿不了他们的奇点上。三岛由纪夫评价太宰治，大意是，他的问题都可以通过运动调整生活节律来解决，用不着诉诸文学。这大概就是人格的分界。有人期望获得正常的底色，而有人会倾向于随着惯性漂浮。而我认为自己不期望获得正常的底色，却也想拥有一个社会支持系统，一旦有了欲求，就无法安于自身了。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106876940006903623/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "nWBTX/fv5eJxuRa9BypIB0iTvXakAAk0bbgKXS8DWhnQ5zAd04DX2Fw44T34aqV0uCg8eLt3eh6TliF+h42C5jzQLPGulL0IjjcXYMJhc+eGJUUBXM4mStvREMgCd0Y7Ae0aiUyE3ZzualSR5x8s3Fa3BCekbNv88h2tbHPqTvRkqjLLAptuP2xXd+z4CpMPZMt+NVnkqXh6MaEduN60cgHqvUuQrYLl0RhLII961Y69TjMAiWJPfkcEK7OfySWJgTuIPw8EbgaiakTfk9yhk+VCdimT8rjZdcV2NGDQuVKDqU/rtQ+Lj2qPySX4WzxZYV9VgB18lEkr7qhbIvQRxw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106877006428819429/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T03:48:16Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106877006428819429",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T03:48:16Z",
+        "url": "https://mstdn.social/@nonpointsfr/106877006428819429",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106877006428819429",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61941901:objectType=Conversation",
+        "content": "\u003cp\u003e一年前我最常用的语词就是垃圾、烂人，主语肯定会是自己，但未必一直都指代自己，在这样极端的评价体系下是无法把自己与他人完全割裂的，我是烂人，在这样的语境中，比我道德感更低，能力更差的人似乎就也变成了烂人。在人间的统计学中我一无是处，但统计学指向客观现实，而一无是处是价值判断，这句话本身就是不成立的。通过这种表述，大概我也在在和话语的一方宣告，我要的不是坦诚而是自我毁坏，把自己的社交形象沉入温暖沼泽的安全感，不要对我有任何期待，我经不起任何审视。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e一年前我最常用的语词就是垃圾、烂人，主语肯定会是自己，但未必一直都指代自己，在这样极端的评价体系下是无法把自己与他人完全割裂的，我是烂人，在这样的语境中，比我道德感更低，能力更差的人似乎就也变成了烂人。在人间的统计学中我一无是处，但统计学指向客观现实，而一无是处是价值判断，这句话本身就是不成立的。通过这种表述，大概我也在在和话语的一方宣告，我要的不是坦诚而是自我毁坏，把自己的社交形象沉入温暖沼泽的安全感，不要对我有任何期待，我经不起任何审视。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106877006428819429/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106877006428819429/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106877006428819429/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "Ffm6XMKSA0SCJ1eMbcZ4rMLOjC/0rO85V/I7nvdfBTvPBz1jfU7Eefv+wRhOBH0jKybzZx4FMzPPv5xKcPvYZblkg9X6V9LrGbDnZB+qNtI3qhIPjXNK/MyEFo3O+h60SUsMgFZZrMC1rjKw7+bnrApPjngluGw1sgyEEUDzvNSPlNjnxN3k1cEVaK+CPODtqnP43LFn/8g4md9UYKF6STFtQdW7kuujMlLg+gEvYTOOX5xjskwT+1wmmBF+L1CVspZHziGjUPDvRxTJyAhoAmyACL2y9WDpk2UlHO+uKr3mBkakU20rF+ny+It9atL/BAv2RynzBv+zhU8/lmt7Bw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106877071575205643/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T04:04:50Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106877071575205643",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T04:04:50Z",
+        "url": "https://mstdn.social/@nonpointsfr/106877071575205643",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106877071575205643",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61942577:objectType=Conversation",
+        "content": "\u003cp\u003e许多人期待的自省是一种悲剧英雄主义的自省，自省不是发现自己的恶心，而是指向自省之后的彩色光线，自省完就觉得自己操他爹的要升仙了\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e许多人期待的自省是一种悲剧英雄主义的自省，自省不是发现自己的恶心，而是指向自省之后的彩色光线，自省完就觉得自己操他爹的要升仙了\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106877071575205643/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106877071575205643/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106877071575205643/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "V3/7hmnQTHZsVmbg2TObGcHY6/pH4UiBN9Xm7eQK10awyelCX+dmnUZgR0dqVUZYYB0qQ2zauJgk+A4/BnHrE3LUokUo/VfqQC57irIBBfW1HiHnT5Hhtjs43zw2jMtkwGhw1wPHwVwStiU3v9cVnaJ1C/Kuh7A/2EdqIU3Qa4dEd4mSE6RLcqSvkUcOn5to/8iDrrUtwP6BhUIo55HAK+kDkF4xz9AHgqULEuyJ+7ldDTqdPFaKpx/CU3m67rtudiNck//N3iTAh9KWXYwNAeqnJKm6SoltnHe5woWEfYvyi7tj/MDaGDQb8zQRpNpytgT/Y55M7G8DgIgaGGaKsQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106881212719546849/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T21:37:59Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106881212719546849",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T21:37:59Z",
+        "url": "https://mstdn.social/@nonpointsfr/106881212719546849",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106881212719546849",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61995101:objectType=Conversation",
+        "content": "\u003cp\u003e想到高中玩聊天室，初中女孩倾诉自己的遭遇，喜欢上了另一位女孩，被父母暴力打压指责，痛苦自我怀疑，甚至觉得自己不配当同性恋，不知道该如何处理这些，我正安慰她，突然一个男的就和她讲，凭什么认为自己是同性恋，说不定以后就喜欢上男的了，先不要管这些要好好学习，等经济独立了再谈这些事情。我当时就想顺着网线把那个男的键盘线剪了，想和女孩讲，要尊重自己的情绪，一直放置不处理在未来很有可能会造成更大的无法预料的问题，可以去看看心理医生，要找到社会支持系统，想和她建议要如何去找。但是我处理了好久和这个男的话语间确信感的对抗，重新理了一遍这位男性的逻辑问题和荒谬的假设，我只是晚了五分钟左右，女孩就在这种庞大的压迫下下线了。我知道即使我的话语也起不到什么作用，但在那时的语境下我说不定是那位女孩能够遇到的唯一一个 能够给她社会支持的人了，说不定她原本还有倾诉的欲望这之后就闭口不谈了。我原本能够做些什么，就因为我的退缩和懦弱，我最终什么都没能做。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e想到高中玩聊天室，初中女孩倾诉自己的遭遇，喜欢上了另一位女孩，被父母暴力打压指责，痛苦自我怀疑，甚至觉得自己不配当同性恋，不知道该如何处理这些，我正安慰她，突然一个男的就和她讲，凭什么认为自己是同性恋，说不定以后就喜欢上男的了，先不要管这些要好好学习，等经济独立了再谈这些事情。我当时就想顺着网线把那个男的键盘线剪了，想和女孩讲，要尊重自己的情绪，一直放置不处理在未来很有可能会造成更大的无法预料的问题，可以去看看心理医生，要找到社会支持系统，想和她建议要如何去找。但是我处理了好久和这个男的话语间确信感的对抗，重新理了一遍这位男性的逻辑问题和荒谬的假设，我只是晚了五分钟左右，女孩就在这种庞大的压迫下下线了。我知道即使我的话语也起不到什么作用，但在那时的语境下我说不定是那位女孩能够遇到的唯一一个 能够给她社会支持的人了，说不定她原本还有倾诉的欲望这之后就闭口不谈了。我原本能够做些什么，就因为我的退缩和懦弱，我最终什么都没能做。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106881212719546849/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106881212719546849/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106881212719546849/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "2MG0c5O4ZWiI7UInngXM0tsf8Ow/gHcBHx+AIjkkxq+fpmDIXRGqbL1tAKzRHJaayJXAwDSIX+6aQJ7J39EqbpSV/oPiArjKVYZzuFrvrCM/Wbo7y/Ys37soXvE4DBTOniBZ33zbYZVTTygLejoCeW88QUGTxXqMteMlb0hsXazwK//qYDFi1nRWYv3jf0QEZxgZkFUTXpWR8e5ePQdJ1fhSwePyf6j+pPnqDknZfvbdgHjMEieO16Vua9NrJRYKGeAC5joWT2uGdlQiDjA2ehGek3m2dcYVdzwbQ6Yk0E0KVPROXoNunTuHReCEETCxryyToEju1N5EydH9sBswyQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106881260941701369/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T21:50:15Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106881260941701369",
+        "type": "Note",
+        "summary": "她说",
+        "inReplyTo": null,
+        "published": "2021-09-05T21:50:15Z",
+        "url": "https://mstdn.social/@nonpointsfr/106881260941701369",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": true,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106881260941701369",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61995604:objectType=Conversation",
+        "content": "\u003cp\u003e她说我是烂人，我也确实是烂人，好想争辩其实我也没有那么烂的，好想争辩其实我有点不幸，我也不想变得这么烂的，但是没有办法，没有办法\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e她说我是烂人，我也确实是烂人，好想争辩其实我也没有那么烂的，好想争辩其实我有点不幸，我也不想变得这么烂的，但是没有办法，没有办法\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106881260941701369/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106881260941701369/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106881260941701369/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "z/3qs854MY0kf97Hjfd3mjOhB1ho0TTarbcNgI1UxGj7kfrOJ5jhAzd0rUg8+hr2v+YrPz6iVSKgMtZNJZ9RSEMFJtZDY89iLqEeQ+/f9TpGkxhiHCD5jE9adFOX2J5SEJGg3nxV8KzfUF8Z5spuPXkQ4BUtCL3OP6I6okzjiBRJUZyRzsJfE0DMzoJyUt3DN2MauMv3GhBAtuIffSa69irDsQ8n5KWUOywjbUhXt+K1U0Fu5wRRQL1dRLgPGBlugdWESh5do/7fZEpBqZDeiNqfe+JVN4/f07U3yxgOMJ2+0iIBIvmPgcvWDMd/y/yGsWVY7AjDDXJX3wvr2UmR6Q=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106881405407140392/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T22:26:59Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106881405407140392",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T22:26:59Z",
+        "url": "https://mstdn.social/@nonpointsfr/106881405407140392",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106881405407140392",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61997185:objectType=Conversation",
+        "content": "\u003cp\u003e无法放松，感觉我是一滩需要靠自我审视来维持人形的烂泥，一放松就会恢复原样，散发出腐烂的恶臭………但是我不想当人了。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e无法放松，感觉我是一滩需要靠自我审视来维持人形的烂泥，一放松就会恢复原样，散发出腐烂的恶臭………但是我不想当人了。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106881405407140392/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106881405407140392/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106881405407140392/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "iH4W5731/TbAGP4UNrN0x8dfictz8V0g5LO5nuaxTrIZ91A3s130hwc7IiwbVZsAaxYJ4ldA120iL7Z78ZbxH/BTPg2sfkEJwvX2g4UWwTxbdwqEdydKP3WoHtOFtAB+VlPcP5DkpT46FHGEPN/B49HidL/zq3+8jVMCNjsqtG6HK5UskwRfhbuM3mB6wiiJUpSDGeOeOF8ZNOgoFf1tZlh2+nhqif9bgTSIvsY44XB9uRE5LZFe+a1IQoAexZv9ZG/BM39yFchGcN/GV8rhkRy909YODMQt5JWvmSUoG1l9I3hV7j5E2FCXSy7PFiBTm7i3ej5HLtw/2HrRPiV8+Q=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106881416217145931/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T22:29:44Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106881416217145931",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T22:29:44Z",
+        "url": "https://mstdn.social/@nonpointsfr/106881416217145931",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106881416217145931",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61997273:objectType=Conversation",
+        "content": "\u003cp\u003e我知道能够救我的只有精神科医生，心理咨询师，本质上归于自己，但我不想得救了。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我知道能够救我的只有精神科医生，心理咨询师，本质上归于自己，但我不想得救了。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106881416217145931/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106881416217145931/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106881416217145931/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "VWYC3OyTI5zZKJM5NX4zADgLUWn4NF7qtzJHIg0i6muipAPOEVBZTz8TjsKNeHPlchvE68bwptDsYoz3J0TICLrP/4mPEG8aKNmo3lmi0w5j/FaeslTERUQCWlQ86z1rUDfYR8A9JSOZxT6nIkgTIbKqi6LIJiEM5RmuGQzywMtZbOlQMnIKvTXsfJB7IJToJ8iMq6QFtmvT3AtqmFI4YA4PMJVwWl4NKaZr5r1N7WykDMLwnevWJLLr/hQNDimPLt/7tKiFuszf0mhpcCZDaT3quauuB8tQaWjgooxYXijofvo4rFeo/O+sCwMunUx7oa2gcZc68ptje+Y8lJEU/A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106881471417237983/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T22:43:47Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106881471417237983",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T22:43:47Z",
+        "url": "https://mstdn.social/@nonpointsfr/106881471417237983",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106881471417237983",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61997814:objectType=Conversation",
+        "content": "\u003cp\u003e我不要一种被认为好的态度，我要尊严我要平等\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我不要一种被认为好的态度，我要尊严我要平等\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106881471417237983/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106881471417237983/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106881471417237983/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "QkaBw0zvuTT49qc841UTbsq3ukpJxm11X2KNIl3YNv+LuRLi7RHOZ7tUwPcuPgUPLdPbQoI+Q0GKGEH1wVnnloGM75ty1I0OrWb6GkU7yeHkRT0GdQn9LC4iSfv5lfO3RnK26j1hhsijzf2eqYPpFEE7Tp5/qtMldhnQkSzafcpw3QOdH9hdYWTrnwXbFRY4Sr9UDE4ZHd6SpcMMvzFa0eu2mKvJIm6jRILUzeEdZGGZXas6NK51ZCTcYK2Eou7Aw0keMB3sizBHAXsC7tzZ/tzFBD+CKAyOkWYGxHqbZKRaxofLIy7Dhue7qUngbkZlw7q76NIOc3iqdDZ4oBZyGQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106881523436774020/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-05T22:57:00Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106881523436774020",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-05T22:57:00Z",
+        "url": "https://mstdn.social/@nonpointsfr/106881523436774020",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106881523436774020",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-05:objectId=61998274:objectType=Conversation",
+        "content": "\u003cp\u003e我很卑微但我看不得理性化的卑微，看不得女孩自我贬低认为他人是牢固的绝对正确的坐标轴\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我很卑微但我看不得理性化的卑微，看不得女孩自我贬低认为他人是牢固的绝对正确的坐标轴\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106881523436774020/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106881523436774020/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106881523436774020/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "sem1YL652pvTsz0KIja3CKsECGsBzo9RsmgNQw4EO/jsVFCJ9cl42GRxUWBC8sdon2QHAEyhm/GFVeUzDS0dAjXZa1lAf8xB/8hdU6pklzoxwyr6ucxvU0VGiKHfvB7dZyV6c6rma8f+i/Sv9ueCrq6wOUX4JnrMQkNHoxQrPbubXsDd0k52pxXMAeKh7yiDT0YMzY4VARYp0Z/FuCg89f6vPWtsL75EGumunY+hZdadYaShCmEpPzTxu9uN5Q6PTTn9bp85MKxgjeRzyVW0oWJtQBm4NDDbqNmABNgG8vY5ZwiXItL6XGsk//DMXPTmC+L4G3OXYGrvvS/PrD9KRA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106892168199032956/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-07T20:04:06Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106892168199032956",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-07T20:04:06Z",
+        "url": "https://mstdn.social/@nonpointsfr/106892168199032956",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106892168199032956",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-07:objectId=62136210:objectType=Conversation",
+        "content": "\u003cp\u003e真的不要浪漫化一个人类好不好，特别是这个人类还生存在娱乐圈\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e真的不要浪漫化一个人类好不好，特别是这个人类还生存在娱乐圈\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106892168199032956/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106892168199032956/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106892168199032956/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "c6Je3AIrCwex/bC2C35eIcW/qi02ZtHVZ1Nl5/n0v1Gyk9Sf0uvqo0MyH9ER+E2HWtjmVD45i5eIF5Kj7MKs6PJImFUn9lvtv7LR0tT358/kXAgz4HvVrqFMrL2+J7mWILTrRQHj16u0yCeXh9rtidTtAZSImjFTsM2tcLU09kMgUfeuDDoDs7gkY3EFEeGshSagXpLgdcx+TyI7vavh6rdrnCgSJaJLQh0i/7aqoL7JtX3KPTvanIPLiSM55Aj3IoH4zKT/UK+M9Gbvz036uyIbSqbV22zR1vqBkG4Qmecy4JcKDKBQ4Ol5dEQ8X+YZHtrwq1CXvh0hEcHUYQlnug=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106916485144598074/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-12T03:08:14Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106916485144598074",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-12T03:08:14Z",
+        "url": "https://mstdn.social/@nonpointsfr/106916485144598074",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106916485144598074",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-12:objectId=62451544:objectType=Conversation",
+        "content": "\u003cp\u003e我不明白为什么什么都那么轻易，轻易就可以得出这样的结论，您意识到您做了多少直觉型的假设吗？\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我不明白为什么什么都那么轻易，轻易就可以得出这样的结论，您意识到您做了多少直觉型的假设吗？\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106916485144598074/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106916485144598074/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106916485144598074/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "JN/NlBYx2xowDEt27xmcf7hrlBIvO06yp9/bq4z0QTaM2ZbgYLI1//GQtWknD8JEH6fHitMdUL6iadhR6ZPT/zop9WMyGvdL4g+JMb6cjcQJoxT8KN2JG76C+CB32eMwlH5Er0mmuZTN32Xu4dPcq9rkttJ4zxiWGIXt7mBZs8gELPQvcR3Li2ifJljDazOZBr86hqUHpgqcHM3t+sE+JrTaf9IPkN1XRDdT027qZE8QNNJiOrXQAUUvXlQNxdXsOXDGiqIfGTq+dRZxyrNVxZZ8lykYGrvzPZmiLuFXYwGyyBflamdOARiOzTamNPS5h0hvAmAaj2thEtp8ILghBw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106916501924526168/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-12T03:12:30Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106916501924526168",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-12T03:12:30Z",
+        "url": "https://mstdn.social/@nonpointsfr/106916501924526168",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106916501924526168",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-12:objectId=62451685:objectType=Conversation",
+        "content": "\u003cp\u003e有目的性的社交是不可能完全坦诚的，目的并不都是功利目的，想要友好就不能刻薄，想要阻止感官过载就会控制语言在一个框架内延展。社交，特别是对于一种习惯自我剖析的人来说，要堆砌幻想，要用模糊掩盖尖锐，现实生活是容纳不了这样的话语体系的\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e有目的性的社交是不可能完全坦诚的，目的并不都是功利目的，想要友好就不能刻薄，想要阻止感官过载就会控制语言在一个框架内延展。社交，特别是对于一种习惯自我剖析的人来说，要堆砌幻想，要用模糊掩盖尖锐，现实生活是容纳不了这样的话语体系的\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106916501924526168/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106916501924526168/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106916501924526168/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "jZDlE7+mChfHLUxUFEdfFGyzVV0M65p6g9CgEDtTFlEHY2D2Tg6a2Nr+cTzKbQHDUQI8jIwyINb1Wx8s4L1nKHvlD6H5FGJLMT8HiCD4M2l3L6jW0SiA3DH54jvMmUEZSocLp0jIJt1tARIZXlUAixrni52EL6Z/EzIzCwnl4FgYRS4evv3nWvQ7sBOxt07VnX78ukHY7c3L+EvVR23oGy2895E5C0ZYAP2FlyeqidE1RJY4BiHceFlaq6oQbBYsn9v/BT/vstIuQr7JOXyAFdaRdsu/fNMVtu8geTYaAsLtSLuOktX6MFxllg9YKBSka5PJJ/THzLy8BOy9yo7L7A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106916529381337858/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-12T03:19:29Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106916529381337858",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-12T03:19:29Z",
+        "url": "https://mstdn.social/@nonpointsfr/106916529381337858",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106916529381337858",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-12:objectId=62451907:objectType=Conversation",
+        "content": "\u003cp\u003e我怎么那么脆弱！\u003c/p\u003e",
+        "contentMap": { "zh": "\u003cp\u003e我怎么那么脆弱！\u003c/p\u003e" },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106916529381337858/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106916529381337858/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106916529381337858/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:08Z",
+        "signatureValue": "J9JZDgIbzhmBQnY14S8bwzaIQQwv5Y5cYUFuI+eMNe6ZzoqkCMmZe6oiCwxho4xDIlpVtRIaNKc47hqaPMo9PmwyYNe3wLLDZaPQ9Hu4GF/0mbG/JK9n9eBSZZClmxWe8wxHo8EAt1eK6PSRl3I7uRKAd98QiwgHW2mayNVRDVukB2EPDA+5aA0t18Oxn0DBmJ5Q2qeie0f2Ru/1C4jCWxZY/CPOLkuXfANNg2792nxV/7Yy/bRlW0gwazUqxO+e/NqZLjUmhIZLTAEhnA4S72mblnq6QB7+yW0Bn9mzkI1BxA97RZnhg6VMa5WpxBFPjZaKhxKtTi8aTAq3FifK2A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106916541682764438/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-12T03:22:36Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106916541682764438",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-12T03:22:36Z",
+        "url": "https://mstdn.social/@nonpointsfr/106916541682764438",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106916541682764438",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-12:objectId=62452030:objectType=Conversation",
+        "content": "\u003cp\u003e过着一种不适合被表达的生活\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e过着一种不适合被表达的生活\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106916541682764438/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106916541682764438/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106916541682764438/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "xtdGAXVCBeIySulXMkwnTNbVMKzXzHBMnsID19x+9YmDCQef++l6JqecP4BZFEtBjkUFXYDKuY2V4eUB7N2A9mnuF9iZphQNcu0I7kBEXzuLnwOKtyHqIlyDDtfHrdepg2ImuTql4u6iDXO8WDGok9JCXmlm5ouDo0MA+I5Z3WuCVim0BLcUzE88oXBv0yIc0CHaLHvDDKAP4kpaYIa/EMgrASagzIi0j1nbZzEJRk5JI6y2iFy9w9dxNZUcUUIx2vUsyxqPyVJoWzGTmb+dmFntsYOgTGp+VdrhRnOYpy3rrx0jrDslXc1ft5JQW5N4sW7OEwnlKsLAD/qT7yfO0g=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106924870183217843/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-13T14:40:39Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106924870183217843",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-13T14:40:39Z",
+        "url": "https://mstdn.social/@nonpointsfr/106924870183217843",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106924870183217843",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-13:objectId=62555979:objectType=Conversation",
+        "content": "\u003cp\u003e姐姐就像是潮湿绵密的丛林，走进去的时候几乎意识不到自己的存在。受姐姐的影响太大了，大到我已经偏离了自我的轨道。但是越来越不认可姐姐，姐姐也是这样的人，无法意识到自我局限性的人，我大概没有办法在保留自我完整性的同时去喜欢上一个人，在这样的情感消失之后，我却也只能退回到自我的孤微中\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e姐姐就像是潮湿绵密的丛林，走进去的时候几乎意识不到自己的存在。受姐姐的影响太大了，大到我已经偏离了自我的轨道。但是越来越不认可姐姐，姐姐也是这样的人，无法意识到自我局限性的人，我大概没有办法在保留自我完整性的同时去喜欢上一个人，在这样的情感消失之后，我却也只能退回到自我的孤微中\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106924870183217843/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106924870183217843/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106924870183217843/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "SUFOlcoqNt0iChEHekNwSFfNGCGvrk8rRQcU7iVOGKUyY79L20Flud8XHHGpDGap9JZV3SxCY8KMfpvTaE6fWUoxF22NQAA3Ol/4VZUBu+AYg591sOvF4U8Xm9SV6Zo1IASQUQwJppHd4n8olgZr/5obQQWzDOuOslHNgU31VYKOgsQqgXkegTYTjExbSQLUvLVxpEKuY6KH4Sxc8/VTyLa0hjO72TL2XYF9BxKl7Nzj95Bhm+d2HdJJKcyUbxf2QIf8PVm1s0iPXHFwkC1vjikLNMKYi+rTsETM8JKj+bOB1rzNA3D4YNH4tE0cmMGPNllb4rHIJ2nJ6bT7E5CsaA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106926842941708728/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-13T23:02:21Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106926842941708728",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-13T23:02:21Z",
+        "url": "https://mstdn.social/@nonpointsfr/106926842941708728",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106926842941708728",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-13:objectId=62584068:objectType=Conversation",
+        "content": "\u003cp\u003e我哪里是因为我的感受力和敏感性而痛苦，尽管这确实是一部分原因，但接受的信息导致感官过载是现象，我是因为自我对这些现象的价值判断而痛苦，因为被社会悬空而痛苦，我无法模仿这些人类的行为，但我又确实有情感需求。然而，无论如何，自我比这些人类的感情更重要。我要保留自我的完整性。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我哪里是因为我的感受力和敏感性而痛苦，尽管这确实是一部分原因，但接受的信息导致感官过载是现象，我是因为自我对这些现象的价值判断而痛苦，因为被社会悬空而痛苦，我无法模仿这些人类的行为，但我又确实有情感需求。然而，无论如何，自我比这些人类的感情更重要。我要保留自我的完整性。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106926842941708728/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106926842941708728/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106926842941708728/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "8bwyOCvRija28JiU8k7EgWEBypX42uc6qipeoO1ynvMpshTODnZEuWoobKmYjcL+m0+PUYUZed9QV0dfFYvz/MeDL2MPAe4fM0cVd8liCDvsXjKkMMVFJ2xqzVe2ucobOSGHdK6lYqD194U11w0ZAHM3EQp9H9mnYBR+m3HKwkdb5vA/r85RD6KJC0f4Wl9fukuXn1tXOK6JxLhl28MVAaoBmy+n633vzw8WLo9otl9VBXcU3S3nBjIOZiTQmELedNuRrigbkDpO7e78U6l0d7JL4x34SEpqX52/REpnknVfZ0HNkT+NpuiYiHK58xD8rqDez4Sc2Vov3OGQuRqLKw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106926890145183991/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-13T23:14:21Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106926890145183991",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-13T23:14:21Z",
+        "url": "https://mstdn.social/@nonpointsfr/106926890145183991",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106926890145183991",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-13:objectId=62584497:objectType=Conversation",
+        "content": "\u003cp\u003e我受不了这种评价方式，连痛苦也需要资格，导致痛苦的原因在标准线以上，那么才有资格痛苦。这完全忽略了个体的特异性，企图把情绪价值用理性衡量，企图把痛苦量化并且使用了一种非常简易的模型——连个体对痛苦的敏感度都没有被记入其中。middle class broke kids的问题不在于痛苦本身，而是缺乏共情能力主动忽视普通民众苦难的真空思维\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我受不了这种评价方式，连痛苦也需要资格，导致痛苦的原因在标准线以上，那么才有资格痛苦。这完全忽略了个体的特异性，企图把情绪价值用理性衡量，企图把痛苦量化并且使用了一种非常简易的模型——连个体对痛苦的敏感度都没有被记入其中。middle class broke kids的问题不在于痛苦本身，而是缺乏共情能力主动忽视普通民众苦难的真空思维\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106926890145183991/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106926890145183991/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106926890145183991/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "A/0TQHSosCE2ADCxwzkRL+NiaWAoVbzTO2yC2h1Ursn+eCl/sAm3rv0PgtAYCdEzPS6tZGQ7Nozt82uNFJT6hzO0+TzpFd9Jvft+6Ma/EIDoKzCLfwBcbffS70k1Sm+FO1DkGImye8G3upvMcwOvA2RFEFVUS6waiZgd/BOGWV9UFVOZ++2+0l2rgaHEALc/g+TR20XY2P/VjbzQPkUvPx3VpeskskeX5CqexEPKWtJnxktX2zuq0jGVgSCs4QbyqQYumqNH7FBteZ+wE0xHT8dT4l85+cuAzk57qejiKtTOp2WitsQzQ6+CP/Ue9bg/Fz24SIwVTkiSYZzyp3bhMA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106926902782918705/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-13T23:17:34Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106926902782918705",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-13T23:17:34Z",
+        "url": "https://mstdn.social/@nonpointsfr/106926902782918705",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106926902782918705",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-13:objectId=62584629:objectType=Conversation",
+        "content": "\u003cp\u003e功利主义到现在还是最常被使用的框架，没有一个恰当的完整的崭新的替代品，一些所谓的替代品不过是直觉主义与功利主义的衍生物或者说对功利主义的增补罢了，但这些增补，在模型中，也是不可或缺的一部分。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e功利主义到现在还是最常被使用的框架，没有一个恰当的完整的崭新的替代品，一些所谓的替代品不过是直觉主义与功利主义的衍生物或者说对功利主义的增补罢了，但这些增补，在模型中，也是不可或缺的一部分。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106926902782918705/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106926902782918705/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106926902782918705/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "ABp5DP/FBRkCEpJE0U/qhgZ0w1ZS+Rdxc2FxYS+eogDuB05eES+XeMI7+daZmoCeiug9z5Y10siaxbjHSWZZQZnY2v6+AaTjXMd03vJvUQRJd9UgHEXsX18gPH+hGtMF1Hkud3f9EZl0+IH0CiNQYRu+zS84D0Cs0h/ymy+s/Gx8AGuK/didZKUSuX2uqZGHtBFhXCimtRy+ZhLGBFo9JFUKEtYEoQ/Bc05VBiZCdJ2E+U25yVNVq2olPkKWxip6tFrYWBT8efP6VmRcJoyF7IlsNzFbRfhTRqowxgSKD0wnswrgNcgt/suwcog5JAzBxaQJytC4MMARcryC2IsK3Q=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106926949148724392/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-13T23:29:22Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106926949148724392",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-13T23:29:22Z",
+        "url": "https://mstdn.social/@nonpointsfr/106926949148724392",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106926949148724392",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-13:objectId=62585115:objectType=Conversation",
+        "content": "\u003cp\u003eSNS本身通常解决不了任何问题，但SNS不等于互联网\u003c/p\u003e",
+        "contentMap": {
+          "zhCn": "\u003cp\u003eSNS本身通常解决不了任何问题，但SNS不等于互联网\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106926949148724392/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106926949148724392/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106926949148724392/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "HQbxHUl+Z4xylJ1ayHHX15uCradSQYqTwwstbQ+Zn2g3JWNbkjb7UYUWvn+79shVVxGx+pVhe39EpHEOr62uP6WfdR9MuU9yWO8cpfHVqoWNe8bnJBCOHi7auHWIGui8h952mdJEAZX+Crffx1+yZyNV2ZtByYSuRsKFOfv0On89809raOf28rgqj2GAjllAhajs5lyQ1S89s0cUSxaHuWr7T0PZ72xARwQXwPDCAzqWTpg+wK2Dl0B6OaeoZR57T2Ts6XiioqlObOocXm3kvFeBPLkBY5Q10J9O+W9W0isu5qMueJfaFwO3msHfndf3y12ePSXbPYSOUTcUVmF+Ew=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106927027508260164/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-13T23:49:17Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106927027508260164",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-13T23:49:17Z",
+        "url": "https://mstdn.social/@nonpointsfr/106927027508260164",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106927027508260164",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-13:objectId=62586018:objectType=Conversation",
+        "content": "\u003cp\u003e信念的负面影响全都关于外部，对自身是光明的，我想要，充满自私心态地想要这些\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e信念的负面影响全都关于外部，对自身是光明的，我想要，充满自私心态地想要这些\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106927027508260164/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106927027508260164/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106927027508260164/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "gI40+vz7pWMhTeg4K5RMeBFZAkZFgoAg+YCS8s59tMWCSgWcFEQGIVKP0ffGI174x4/ZN64cm5OtGsUDQK1ViGKRWVAus8yktaQMpl/zk3Uty9txYvSDSRSpswiwE60xfRiC4WPML5mH8fLNEIKANDtjjgoAmOFiQs2gQeqxXlk8mDeeNBm9fI44gjVfHWqmQZMQ2OmJuo/bpqdaYkrtPn8UVR/Ckl6E3MiPY4KJ1uLKdUvHMaq8GY65ZYszRxrYm8THX77BbOMTLsnSK+3DJFbtLobxXmXfX1O1+lMvJgpcmwjHHf/Ge35pAjdIJ4ruIKwzc3xOwzZZeEDaLUVDPg=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106927388477528272/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-14T01:21:05Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106927388477528272",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-14T01:21:05Z",
+        "url": "https://mstdn.social/@nonpointsfr/106927388477528272",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106927388477528272",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-14:objectId=62589928:objectType=Conversation",
+        "content": "\u003cp\u003e光着身子躺在床上的时候又想到死，这样的场景和过去类似的时间衔接起来，让记忆也显得迷幻。我又一次想到如果在这个时候，我裸体从旁边的窗台跃下，也算是一种符合自我的死法，尴尬的不合时宜会引人发笑的死亡，diane所说的They are not guilty, but they look like they are. 但这一切猜想都与我无关了。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e光着身子躺在床上的时候又想到死，这样的场景和过去类似的时间衔接起来，让记忆也显得迷幻。我又一次想到如果在这个时候，我裸体从旁边的窗台跃下，也算是一种符合自我的死法，尴尬的不合时宜会引人发笑的死亡，diane所说的They are not guilty, but they look like they are. 但这一切猜想都与我无关了。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106927388477528272/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106927388477528272/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106927388477528272/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "L6afnGzx0Pmyi5QAxtpwO60zSVcEiHqxyD1jLp6kg7MV1KjOK0F40ouYIr65F53uLZCdFox9VMUIgy7CNkETpAMZH2m6xL5vRyFa24KlrAue4wUBFb5Z8bMESoJK7x6LFduUYTlV657AaPuqQGo6OTwGmxCJQqMw9hq7YEZK9Ktg7IPdN/IUFUoJWpTtYW6H+yBho+IC27udvaDnLnr2ikVNxcyXIUCISPdd4u76vYbSLt4M4ld3dWdqYP+j92Boq+ceEKFCrFlWufCf3JN6ZiwF1kX5eRTTIahu6C3poWZeDhiuv7uYxPXrYMFu680RZ7A0Sz6KQD9p7yaI2qcB5A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106927396237339312/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-14T01:23:04Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106927396237339312",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-14T01:23:04Z",
+        "url": "https://mstdn.social/@nonpointsfr/106927396237339312",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106927396237339312",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-14:objectId=62590004:objectType=Conversation",
+        "content": "\u003cp\u003e刚刚发现ipad版本的mastodon默认可见性还是public、、、\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e刚刚发现ipad版本的mastodon默认可见性还是public、、、\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106927396237339312/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106927396237339312/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106927396237339312/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "QynN78rA/ADlyBe1QbAm5Df5uD+yk6pKhDpPRa480JVPDUBB+VS/+SjXdlfQTdUIvBVxlS7ho0JbaXC2aRlEy/fqPyGT8SP0CuWXAGdYphuG8BQE5i/NoUFLwvMjsSQ54CFIeBClkj8Ck3X4Gh1GBTDH3qX/yCFRYbf14zJJFaJsQKKdOJwL+5j4kQP4LzUwwe4i7dwDt3MT0Ayc9yuftAyNQRTYI/hurk7g1CHO+xCEaVx+Q2ysYUgu8g7mp9KaJVr5av5mTp/9BHpOuiahdCxSeqYPpvRfh5V15QRxPGTK3ZFLyRosTfRtUpZmIP/wTWYtQ38JLtMMB8ExxHZucw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106927521402725264/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-14T01:54:54Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106927521402725264",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-14T01:54:54Z",
+        "url": "https://mstdn.social/@nonpointsfr/106927521402725264",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106927521402725264",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-14:objectId=62591235:objectType=Conversation",
+        "content": "\u003cp\u003e但是有没有想过不止您在维护的人不该被过度指责，与您意见不同的人也不应该被过度指责\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e但是有没有想过不止您在维护的人不该被过度指责，与您意见不同的人也不应该被过度指责\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106927521402725264/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106927521402725264/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106927521402725264/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "7C7QSo0yEB0NbAzrv+DpBjtapzDnagImRGk+bHWLEipgZhLhfjlcPBFRINy3OSfarqdSnnPJlL5dIjQxw64SCuwptH0jVWOP6Nhqf+jQhlX+pL1hYe3HYKu6Fz7NPT0FpYaMC9dp9BRe0Y8+wENTKRxvK3fGdj4JTtGMFxkEqXbMZIlSQ2YBRhEAMk6gGlvDdKAXI0J//Y+qzNd/S7qZ5bIvCsJ1jfLrimsoFkfOVoBVaU2swL7KZuwypvzEN1HzHNxR/It6bjtJoy9gX+H6MD54VM9if8xhEumbYVBors714iR5KypqrT8Xyqiu7+hCMXMz7bILPagkM50tlFhIjA=="
+      }
+    },
+    {
+      "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        {
+          "ostatus": "http://ostatus.org#",
+          "atomUri": "ostatus:atomUri",
+          "inReplyToAtomUri": "ostatus:inReplyToAtomUri",
+          "conversation": "ostatus:conversation",
+          "sensitive": "as:sensitive",
+          "toot": "http://joinmastodon.org/ns#",
+          "votersCount": "toot:votersCount",
+          "litepub": "http://litepub.social/ns#",
+          "directMessage": "litepub:directMessage"
+        }
+      ],
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106931077382934523/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-14T16:59:14Z",
+      "to": [],
+      "cc": [],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106931077382934523",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-14T16:59:14Z",
+        "url": "https://mstdn.social/@nonpointsfr/106931077382934523",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": [],
+        "cc": [],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106931077382934523",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-14:objectId=62642114:objectType=Conversation",
+        "content": "<p>我没有我想象中那么脆弱那么敏感。</p>",
+        "contentMap": { "zh": "<p>我没有我想象中那么脆弱那么敏感。</p>" },
+        "directMessage": true,
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106931077382934523/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106931077382934523/replies?only_other_accounts=true&page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106931077382934523/replies",
+            "items": []
+          }
+        }
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106931095460934929/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-14T17:03:49Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106931095460934929",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-14T17:03:49Z",
+        "url": "https://mstdn.social/@nonpointsfr/106931095460934929",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106931095460934929",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-14:objectId=62642502:objectType=Conversation",
+        "content": "\u003cp\u003e我既为我在享受的，无数人无法享受的特权痛苦又为我享受不到的特权痛苦，但应该做一些区分，什么是必要的，什么只是欲望的延展\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我既为我在享受的，无数人无法享受的特权痛苦又为我享受不到的特权痛苦，但应该做一些区分，什么是必要的，什么只是欲望的延展\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106931095460934929/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106931095460934929/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106931095460934929/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "MiKKYwg+9Yquwq1UTQZHCsGSy+v+hqp3tiRw9DhZPnhpk/tnV6xms4TQM9aBu3zzQw1IBtNu86NS0BjpajP6oZiL1nfDwNJal1otb6kJluP9JD+Cch457Si1tjbKH+GKmnckY1OFAZHLZFFHnf4uKqFSIC+21Jk/ed4U4CRlzAKLxkUlSq+o/5I8Tu3B01bNpjTd2Kv64SBcXq9e085p7+8MXJCZINlbwRlhUcWlwPQAgkIAnl2zNJv6eULQRLrH0nQHZw5wkUmq0G/7dPk1L6VgY+jlwexUaezSYkibPD8AMGMbI8pC7Pvw+vCVyZX8zba8oRejUBpKLeWpbWVUGg=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106936011038937212/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-15T13:53:55Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106936011038937212",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-15T13:53:55Z",
+        "url": "https://mstdn.social/@nonpointsfr/106936011038937212",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106936011038937212",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-15:objectId=62708066:objectType=Conversation",
+        "content": "\u003cp\u003e不要总是用价值判断包装现实好不好\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e不要总是用价值判断包装现实好不好\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106936011038937212/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106936011038937212/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106936011038937212/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "yuSqlPbFRf2ERcZtEjHg9vkSOFzfM2QCQe619T3QMfhPXIW/bDcmbxx93r2JtJl11DWasuR6nCzdLSOGJysgvdY0JOXBcJXW3Bn3FIRTyFITfe3lDvO5JqEetr5t1w8sbfkhu2hzQHTu2E87W5TWiRmVF17p4IO7/3iNmL1Rgv7kDnrpye+RSDL+9dOwK/Pv4T145Wkvtvhsfk7rqp2wuxDkGib0hhwGLWvJa5SbwZwXnnUbAg6+QAc7TqTo0ZcFIcnnZCXAo/SdDKqDHo5jDPzOeG5y960iD7UaJP+HD6QcT51Rn0emBsvRL6bLRSJhqgy5ac9QHjv5E+SiUj4K0g=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106944030153198513/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-16T23:53:17Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106944030153198513",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-16T23:53:17Z",
+        "url": "https://mstdn.social/@nonpointsfr/106944030153198513",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106944030153198513",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-16:objectId=62819907:objectType=Conversation",
+        "content": "\u003cp\u003e真的感觉很累也是因为没有人的垃圾是彻底的，满足自我一切负面标准的扁平存在。很少有人生存的意义就是伤害他人，没有人是所有意义上的烂人，中间因素太多，不存在漫画里被塑造为对立物的反派，我的愤怒太多，悲哀太多，但我知道最终没有一个具象的存在能够承担我的愤怒，父亲不是，母亲不是，男的不是，受益者不是，当权者也不是，间接或者直接造成这一切的都不是。我的情绪只能向内自燃，被期待着和自我一起损耗殆尽。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e真的感觉很累也是因为没有人的垃圾是彻底的，满足自我一切负面标准的扁平存在。很少有人生存的意义就是伤害他人，没有人是所有意义上的烂人，中间因素太多，不存在漫画里被塑造为对立物的反派，我的愤怒太多，悲哀太多，但我知道最终没有一个具象的存在能够承担我的愤怒，父亲不是，母亲不是，男的不是，受益者不是，当权者也不是，间接或者直接造成这一切的都不是。我的情绪只能向内自燃，被期待着和自我一起损耗殆尽。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106944030153198513/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106944030153198513/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106944030153198513/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "Pk8fZipQgYCRGqMEBbNb3CGv/k29SvQSuu7hcGyTBoMRTz2vdY5AGnRgfMquUpLpIPgt29fXPkugErvBAK3c2y0qTpXh4K3tstRb+s7Ia+1BTyyV5AgEwyU+YhbMGqUdm5u8cvr6CNTQop8/7y++aAnoa38065IW3LyR5lYnANFAtc71iUnIqiw37aNrM4HKu6kTxxTzw70fERFocJgO9u/7RHOJqNQNqL8V3ca68TIMvw7oly3mvEHUTJlY54HHiNPB6dsRztRr4L2sqvxugBxA/jiGszczzVWy5djigoTgtfffao9UJFuKJF6kidjmpYBlq79eQJuOIE10BZFHTw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106944052866441004/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-16T23:59:04Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106944052866441004",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-16T23:59:04Z",
+        "url": "https://mstdn.social/@nonpointsfr/106944052866441004",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106944052866441004",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-16:objectId=62820067:objectType=Conversation",
+        "content": "\u003cp\u003e我接触他就很想呕吐，想把自己的内脏搅碎全部呕吐出来，好累好累，他打开支撑架握起手柄，我就在他的想象中和路面一起变得平整。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我接触他就很想呕吐，想把自己的内脏搅碎全部呕吐出来，好累好累，他打开支撑架握起手柄，我就在他的想象中和路面一起变得平整。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106944052866441004/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106944052866441004/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106944052866441004/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "ZhxtUg5Gy7FJbPGxiJzszTciF642JKRvGWKU+sN/lVwgppxUvGOLGfrQpTZ9SvzLZOKMz04fhNl5xcip3zYGOIIIpz87sEHvVJr06BjL/AwOVkJ3fB6XX++CQi5vBGOc+LduqCl94lrjV1Tip9QT8On2ERUGA/nRjGXvIkOUmxtoDjZlnFImO/FTcm2KoI2RlILjGi67G4nN2miAs6gPaelaxKBW6OGJLe3zthhqhX6y2cxi8CMlUI4s7j6w7qoTWf0lwfRg3LxSeO4Q9EWLKoGj2MHaU0jDTp9fMKa84nalZZXQVZBlGPvqF4dfHftm8N19vSHvL9glViDLCF82AA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106944094075475228/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-17T00:09:32Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106944094075475228",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-17T00:09:32Z",
+        "url": "https://mstdn.social/@nonpointsfr/106944094075475228",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106944094075475228",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-17:objectId=62820545:objectType=Conversation",
+        "content": "\u003cp\u003e姐姐姐姐，我喊出这个词语也是对自己自尊的损耗，期待着一个趋于聚拢的、整合良好的、亮度适中的形象出现在我面前，一段舒适的亲密关系，一个没有权利色彩的导师，我不要被动地被拥抱，我想要摧毁所有影响自我完整性的事物，但仅仅是期待便能够揭露我的一切，让我慢慢蜷曲退化成一条毛毛虫\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e姐姐姐姐，我喊出这个词语也是对自己自尊的损耗，期待着一个趋于聚拢的、整合良好的、亮度适中的形象出现在我面前，一段舒适的亲密关系，一个没有权利色彩的导师，我不要被动地被拥抱，我想要摧毁所有影响自我完整性的事物，但仅仅是期待便能够揭露我的一切，让我慢慢蜷曲退化成一条毛毛虫\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106944094075475228/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106944094075475228/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106944094075475228/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "zknUB79SeId+KjSGtfGBMJiPgkEP/llO14ggmPeQiJs552dzZIV7TfLehv1VMAiGSORMIqYyLbFAo3cO6QjsN11CQ95JXJgYcJolthZKXrGHwLtKM1JaK43zKfwQZ453N4A9txwRJIDs8kivTJn2c/h0zP9cJfZ1KivEeM5G+Y8nCdd0J3628L5w8yANUcb+iOw+n2k2/if0Oyh5xwkmr+VejLBILhurZjcZ9lF48vdS3JngKkarNVmHcjMg2Wrjt0CaC/OxUhm2WRTDTVrykFQhIiR4ZDtOlcSNKtMLbc1A7JudyOwrsR6gB5Ux1iL5ovPRNnCs5d+d9IWq+iXI1w=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106944147968326895/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-17T00:23:15Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106944147968326895",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-17T00:23:15Z",
+        "url": "https://mstdn.social/@nonpointsfr/106944147968326895",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106944147968326895",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-17:objectId=62821146:objectType=Conversation",
+        "content": "\u003cp\u003e无病呻吟\u003c/p\u003e",
+        "contentMap": { "zh": "\u003cp\u003e无病呻吟\u003c/p\u003e" },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106944147968326895/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106944147968326895/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106944147968326895/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "I3vtV/ESUwxBMIsUq5z2JDI1bxMMqmPZX9UJL+kau0cljvVHjb4Nm1lKztXe0BlKepg6ehPS24/bLJt3O5/STL+QqVfmxQqHOlFIPMDdULDLjoRtrjcJNdnBC13HCccqFgknOKAH9e940dKsdJ893alENRNfVMZZ4aDL6IMQo5uL9BZXexdbnW4eIyk6DvIJygbWllSK+WMvY/Kpg/AhjAOG+/P8TbSv85PM0ixoqSjzh0K2+Ins0YxBrNgpL0/3++li9ZOuHFjW9YV+Mqi2ID4+I80b8d5t1O5MIUmLAl4Mjp8bePCyZP+KPRkzcdBrLaoUWwyxo4PCkSF0B2fuRw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106944149708508294/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-17T00:23:41Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106944149708508294",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-17T00:23:41Z",
+        "url": "https://mstdn.social/@nonpointsfr/106944149708508294",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106944149708508294",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-17:objectId=62821156:objectType=Conversation",
+        "content": "\u003cp\u003e漫展提供的拥抱，视线相会就是标价，疏离的一触即分的，我那么讨厌肢体接触的仪式，却能够从这套仪式内化到大多数人潜意识中的亲密幻想感到愉快，从并不被预设为亲密的解除中获取好温热的能量\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e漫展提供的拥抱，视线相会就是标价，疏离的一触即分的，我那么讨厌肢体接触的仪式，却能够从这套仪式内化到大多数人潜意识中的亲密幻想感到愉快，从并不被预设为亲密的解除中获取好温热的能量\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106944149708508294/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106944149708508294/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106944149708508294/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "VD+iM7yzqWGq/DXhgZ5QXA2bzOQtSy0eP1Zd/CTi7PgHBTt1ZxmsP/kMj0fP7jtGqBHe7kk+GsdQatsdsnboZL32XddRYvPFI6s4OsN4tkQoD+/9i/Uq/roM1ib5nuDqEm+EeP6UXzr9N5kAtLo+vvYl1WFz0oovN2yhixR0QCDqpAB6cjoPUazHXN2o9XKwZJB3Y755/Xvm/7dFwHiKdewZ2QotPTVr2MqGYA/lZgS9/9pvJcjlkJTsCdhwp4aion76LU3/if3MRHMHgixxx7+fIzq8Y+Jhjxy9JXWpe1ai2E1fvU9YgCWC9MoLy6pUyk3Fqp93cF58kqImLfTp9Q=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106954170359739521/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-18T18:52:04Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106954170359739521",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-18T18:52:04Z",
+        "url": "https://mstdn.social/@nonpointsfr/106954170359739521",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106954170359739521",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-18:objectId=62954707:objectType=Conversation",
+        "content": "\u003cp\u003e不敢相信我social了一整天\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e不敢相信我social了一整天\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106954170359739521/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106954170359739521/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106954170359739521/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "jY0M9r1kXIHkwEWrchKEHX88a/qCS+HHQJomHPozTfiY/37MLx7YnS4RNG6PFfYJu9g/mbi8vSj4wLtMdOZtXOvhoqrjqn7C7iemy3Z2XHAupJ4cebsaF8AM6ZttmI/JmWAeuaZMdGrC8MTyHy+zROFg0Zs/ZQArNjyBxCE4f9Q/0K+SiAV8kQE2LbllXS5tllBwOObEmh9F2BQ0+pdbDrIFhNtUGyu5Ni/Ib7PhYfCErD74qbcyLjuaWLRYEQoahsnbSz5FBkXVPd4l3vnYZ6LPAP4vR9CH7GrjbPJfXjlrUh+h1vcqWSxBfuQeQ4BAYcCHvIpBgg0naishAcSuqw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-23T18:01:49Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-23T18:01:49Z",
+        "url": "https://mstdn.social/@nonpointsfr/106982284325049568",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-23:objectId=63320938:objectType=Conversation",
+        "content": "\u003cp\u003e关注了许多认真生活的人……会觉得太刺目了……\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e关注了许多认真生活的人……会觉得太刺目了……\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568/replies?min_id=106982286380969734\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568/replies",
+            "items": [
+              "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734"
+            ]
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "6D/lxVgE1tvcbld4Y6wzQlpzO2dnkWjGxEFXv0AYEDtCWXgefa4y5hQ4O8LzF9LCylfa2EXqVIb7itxYni0SeY5+yj8RSuLuNVAnUuJVLc4I1+tmYWlKhl7+lnWcAwr40y0yAPLz6oB1cUBjwuN13ielYxq3seF+flG/TXZb8knvzo/MZc1lAD8zGVsZNUsfbhzkH9a3QL03RtRdtmxVXwuwzI5/Mz2iCYVyQbOUgaiufvTZ9YFQnD+NF85fDHJ7t+nX7Z7a4oB+xs6VN/IdzS0KPW3viaJUz14tkbytwV+mlnH6QRIEkDnZZ7ZK6rEMn/3tRxOFLcB68QzgtR5fCw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-23T18:02:21Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568",
+        "published": "2021-09-23T18:02:21Z",
+        "url": "https://mstdn.social/@nonpointsfr/106982286380969734",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734",
+        "inReplyToAtomUri": "https://mstdn.social/users/nonpointsfr/statuses/106982284325049568",
+        "conversation": "tag:mstdn.social,2021-09-23:objectId=63320938:objectType=Conversation",
+        "content": "\u003cp\u003e只是我已经无法接受阳光直射了\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e只是我已经无法接受阳光直射了\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106982286380969734/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "UklpOUTC6IXgdPbAZmtvKDoJZUeuxHNW2krRnI4iNE2Kq8xIxxY6VjWLTibw5u12hUyHb7SPv4wkBPg+pnxCPF0wg8S5ieATuzbDCAFY6Ff4VgsiDTTl81lQAzLcCR0p1bRwX7ijS0TbL1FGpAzKBqx4j9qnk5dIzKczwFui5NsJ+X1KGNBIpB9/hcSo03DRQX/P5L1JRafvP/dDDIRrQpRKFdycljVnlUqdph4dkVR4rCxpwCqhXqANt/hSiAJAfiYab4eJ476JTAF00Su2lHoTum0lgBHk3qWJDA0wA5vY3uD1lP7PHvmhfRLeXbf4HHyJaLBeYeUevb2o5Gum7g=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106982327832736039/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-23T18:12:53Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106982327832736039",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-23T18:12:53Z",
+        "url": "https://mstdn.social/@nonpointsfr/106982327832736039",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106982327832736039",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-23:objectId=63321525:objectType=Conversation",
+        "content": "\u003cp\u003e很可怕……到现在还会对我是谁产生疑问，读过的所有理论体系对应的回应逐一映射也无法解答我的疑问。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e很可怕……到现在还会对我是谁产生疑问，读过的所有理论体系对应的回应逐一映射也无法解答我的疑问。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106982327832736039/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106982327832736039/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106982327832736039/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "R+9S6y7dp+oqvoy42VzckXNu0dvLY7kIOyo1u1hgPaRd+sPLTtpUE8QK+WkuJuPhUhFjEMA3xGNPjtUHNCIxP02SrWuQNTZYo7amQfntOtwWxZ7IYVrSVTMkOaS/AMXB7PIHtzTe/SZR4es92PNn6MHZeE2EE7Fl8u9NHv+I+HE6qf7bog0WmDbLH0hMuHqzOmufO5OWxizNzj1XpPhRkcjRItFCDimO0v21MlFFTMdjU4YYL9nYqLXEyX46rDzmn9o2vHnqfIoz5BmN2B7CGPCWWUjiOQOtPY/7HR9ru5q4glo8y+ZMO3w1ZghjnqEpgeElLBgBg1W81Xq1Xl4ZHQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106982337779669185/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-23T18:15:25Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106982337779669185",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-23T18:15:25Z",
+        "url": "https://mstdn.social/@nonpointsfr/106982337779669185",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106982337779669185",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-23:objectId=63321669:objectType=Conversation",
+        "content": "\u003cp\u003e我存在的痕迹我痛苦的痕迹都只被自己承载着，在心理医生面前也试图表演试图自我修饰，只有我自己一个人能够回答的问题，但自我解构的真实也未必是真实\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我存在的痕迹我痛苦的痕迹都只被自己承载着，在心理医生面前也试图表演试图自我修饰，只有我自己一个人能够回答的问题，但自我解构的真实也未必是真实\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106982337779669185/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106982337779669185/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106982337779669185/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "CeqKMZcQ4wNg6VlAZBnyFX19OqWRUIM2NdrJsXVgNqhpmi7BTbpCJwa0uftTLWOzQg2GdT9VC2jQQUsxaiyA2NV077GXj3afh3WxdpbGSBD2vv4EfJya7Aj0B8MYJ67RUSwWxFATSynKPS60tk5/UOHNE8KxRITCk/+jUKrD6gsvmgeEMe/U5YMGh3a2ARyIrDBo9rZfBY8NvKV04mGac9hhSCIOvF1ANY6YgqRhIbzIV5zvY5Lu+rsXaITFZW70zPdPauuRKvU6YkzaCH4GJjbd4PMlnae3colqNPaPkvAigW/7jdg6SlnczY0Q2dT83GVwoPkz7G8rsYAFcXYX0w=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106985691426409315/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T08:28:18Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106985691426409315",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T08:28:18Z",
+        "url": "https://mstdn.social/@nonpointsfr/106985691426409315",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106985691426409315",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63361204:objectType=Conversation",
+        "content": "\u003cp\u003e不得不沮丧地承认我好像真的很烂诶，似乎很容易给人造成不安全和不适感，似乎是不会被选择作为朋友的类型，但我甚至也并不知道我烂在哪里，很想发现我的烂，做一些实质上的改良\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e不得不沮丧地承认我好像真的很烂诶，似乎很容易给人造成不安全和不适感，似乎是不会被选择作为朋友的类型，但我甚至也并不知道我烂在哪里，很想发现我的烂，做一些实质上的改良\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106985691426409315/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106985691426409315/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106985691426409315/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "GtvnbcAH2MvZJlL/HUpBhCPyW2NK7rgsOfB9VfFIFZLO72cTcwf9GO84jjSkRCiJXtO25vx3E17CWXKl62SbzahNvTCVACkJeQFhms8a7IN8iLJs0Hu523GVQ72mIhQolqe0BVn3Q3W/ny/eJJczHh0KIu1950V9oTGJH8xotgX/+z7PRa4pqdWLZIgOChm0rWYePwpbTsWYOteK/9PYqw3bB/eo+AQWn/i5k/9HL2xdrrguBMb9TzE+sNFX+Pe8KU+b/TYoYaxngV/7y7ATvPQO0/xCYd3hwqvb9zfB3qSABHCkvBnD3/sqpAeVq69A3J7cy/+LJJV05+mUQCZLEA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106986283068750970/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T10:58:45Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106986283068750970",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T10:58:45Z",
+        "url": "https://mstdn.social/@nonpointsfr/106986283068750970",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106986283068750970",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63369610:objectType=Conversation",
+        "content": "\u003cp\u003e吐了 真的不想再这样拧巴下去了\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e吐了 真的不想再这样拧巴下去了\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106986283068750970/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106986283068750970/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106986283068750970/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "PbLWPXLITD5NBpU5JPVceYaHV6qfHRqp9js1ZbnE8MRs3J+ObzulzS0goSg3slCzk5vmJqvMvz/K2KCwHORmLkSQqmog/53NSz9fLkL3OY4nkuxZ/jbxykuYjPLkcaZL95APtSIEIktqYbXjfZoghMj0w1UYgEITSnqsxsriTxt/5NzuTT0aL/X1AMf4XFoC92Q/OADHoh5RWH+8hHEe3Phkrygl6XqAFGurCNb1rQ6nbm3mMH02qV/2c/wtXyEQxqlwqw+/JliaWQAD5EgpF0x9GIAsXeHN7vpfRdbHSSPUXoN4YJRCSwuHzh+CWxmop862BsDl6OShSFfeXbz6Ig=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106987152573318987/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T14:39:53Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106987152573318987",
+        "type": "Note",
+        "summary": "姐姐",
+        "inReplyTo": null,
+        "published": "2021-09-24T14:39:53Z",
+        "url": "https://mstdn.social/@nonpointsfr/106987152573318987",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": true,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106987152573318987",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63384350:objectType=Conversation",
+        "content": "\u003cp\u003e很痛苦，姐姐抛下了我，是我先抛下姐姐的，或者说姐姐从来都没有放置太多的注视在我这里，姐姐爱她的姐姐，我爱姐姐，我爱爱人的姐姐。要如何去爱一个人，如何去分享日常，如何靠近姐姐，又不会让姐姐觉得不适，时运不至，姐姐是只喜欢自己主动接近的人，我从一开始就大错特错了。但我不要满含目的地接近……没有办法，没有办法，一个早就腐朽的存在如何去接近一个正在挽回自我没落的人，我的靠近大概都会让姐姐退避三尺……好累、好累\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e很痛苦，姐姐抛下了我，是我先抛下姐姐的，或者说姐姐从来都没有放置太多的注视在我这里，姐姐爱她的姐姐，我爱姐姐，我爱爱人的姐姐。要如何去爱一个人，如何去分享日常，如何靠近姐姐，又不会让姐姐觉得不适，时运不至，姐姐是只喜欢自己主动接近的人，我从一开始就大错特错了。但我不要满含目的地接近……没有办法，没有办法，一个早就腐朽的存在如何去接近一个正在挽回自我没落的人，我的靠近大概都会让姐姐退避三尺……好累、好累\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106987152573318987/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106987152573318987/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106987152573318987/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:09Z",
+        "signatureValue": "MIVhmnXJkZE3wJaR7+0aDO1c4m2KwqdWQfyUG6OEDBlY4V2avUGQmm8f1aaq+GuhoyPhO8WnJOds9Iw+id1XYq1N27rM60x5OdUo8RID5g27NfUfD7YDwJAoL36A5iKDKMg658g+lYQ8P32+3cMQc20llcyJ7Bcyyk77vTqsfFWQL9f6PQnoUvmfhC2WK0Xx0i7WayKwrzCEP5c1bBZ7oMmPZY4BVSpYblqe2L3qN8k1jnuIJKDJFQnPUcWeH3zQSu8CWKGsVQ4EVjxyA+NRt7gXwViKyKw1FVrok9kIBjvVDTZ1TLdsHfJN8HKATAn6z7PSMtdGUEQzOH+nd8DHFg=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106987411291396422/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T15:45:41Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106987411291396422",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T15:45:41Z",
+        "url": "https://mstdn.social/@nonpointsfr/106987411291396422",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106987411291396422",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63389295:objectType=Conversation",
+        "content": "\u003cp\u003e我太恶心了 受不了了 我为什么还没被捅死\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我太恶心了 受不了了 我为什么还没被捅死\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106987411291396422/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106987411291396422/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106987411291396422/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "3ATF1Rv8Z/E4Nw5sTn+NH2auhykTHJ8mJwZ8Smn5EOlA6ix4Ps24CkQXerNAu6mUt4Naqg0uRTwpG+uBtvGjnofAp6zWQscCa/oFs0GjjvMQ3QsMIrVS/swrnens0D3ivrjyISqf9EJ8QeTRFIijqAhG2pFt+rL5mP5RfAoxUlQ97M+qZJS27oT+l/qysY+3/07C0YcOkIkYbRY8/fPk/R0T/KzcdwkB0ng6kHovlfRZ/YqwWmV5gnP2xOLuyja66Voa73z3+54v8ow/OXq9mVmhqZfKNYG9LjSVYz6CiC4BTtSwkXO0DNtfco6R0eIlrvJFLC44v2j/A8bx2bL0fQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988201628061463/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T19:06:40Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988201628061463",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T19:06:40Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988201628061463",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988201628061463",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63401249:objectType=Conversation",
+        "content": "\u003cp\u003e没有做什么刺激活动，肾上腺素水平应该不高，但很长一段时间都一直感觉不到饥饿，很奇怪的状态，好像身体是悬空的，无法落入任何一口井中，体内的线向外散出，把视野围住，我什么都看不懂\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e没有做什么刺激活动，肾上腺素水平应该不高，但很长一段时间都一直感觉不到饥饿，很奇怪的状态，好像身体是悬空的，无法落入任何一口井中，体内的线向外散出，把视野围住，我什么都看不懂\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988201628061463/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988201628061463/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988201628061463/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "QFNLCdfJD8ogNPelsZD+F01VPW4v6lAOQxVKlUQW7tHpOi9gSIl7SYrcXs4rS/RrSoCpbJBISUxy99IukVjd0D/y18nNOz0lxxnsZjIWxe4w2Z2yiCjyvVwaQVAm5Lbojhq1687HtsnrbgDgf4nklUm7/TG8GWB1N2r4QXACM+Ec05TgUfK+otLMB1XJMBgcwOO831HeXCvzl8j8A1j2A0G9DRI5GW+zy6E0SGeXheCfWre2wJmJNkHbJ6GR73iZC61U6xOWfJE1aVgBY4rTWZ1Fch6/JqFitxAa1R6bzpd9aPxDwV2DcHfhbo4dOXk9OnPEUKFPDdAJmRM2AX7rPg=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988475855841776/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T20:16:25Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988475855841776",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T20:16:25Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988475855841776",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988475855841776",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63404546:objectType=Conversation",
+        "content": "\u003cp\u003e无法爱，无论是自己还是人事物，和一切都有故意造就的疏离，我爱姐姐，但我无法去触碰姐姐，这种无意间流露的自怜，让我想把自己物理上由内而外展露出来，好恶心\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e无法爱，无论是自己还是人事物，和一切都有故意造就的疏离，我爱姐姐，但我无法去触碰姐姐，这种无意间流露的自怜，让我想把自己物理上由内而外展露出来，好恶心\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988475855841776/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988475855841776/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988475855841776/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "ja7FlXVri69flh9LL277SPuIAqu6fVUQwM8GFa3G/yTVIl8+iKrGqWxJfAngSA71hKojSCymHdVUtK6C2PZpRVhLcIIINidr9c9RJ80Rlw9ISdImOieCWkq5663kc4Ri78uhg1ldcmo7omDSEU1byHn7qd+uS1UOx7Tcrx5op3KVWJMZYX35eIAhaWz8Eu1OCfL7dNSukpeoXiilK6BIKP13D+/IByEKn07rz7iC/aMCyVYsqUlAlqQpGAnac9HmhdBn3ORPvn2/8TDp6+rP4Uq7Pv2yc5mTKObEGlhKgNk3vrthQMyaT5OsrNja14DNDDmxSQgBp+RYenwjeM+vPg=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T21:06:15Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T21:06:15Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988671851475622",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63406657:objectType=Conversation",
+        "content": "\u003cp\u003e要叹好多的气才能接受解决方式的残酷\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e要叹好多的气才能接受解决方式的残酷\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622/replies?min_id=106988704340082770\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622/replies",
+            "items": [
+              "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770"
+            ]
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "qmvpL8PYK8nzz4Q2dMm4ykd4wCtw3EpaGT3rgrpa4jJfNFJTPBiug2JCqXNUK1aYlmVvVzCkjtsLXfN26WYEQhpvOlWQHP13ANwXOC7zpvuDsSGM157LDBiGogC2iBm7J9vpo6WrYOxk2Dmd9gvgwzy0TomnnB11S4J0WndP2GAGUSoQYaQ+muNP1nVER0jKBeHA0jRJIdIms+vnCX1hXnQ6Aax1PmbvUMGVpwJko6fPY8kiW+550nuqTPKUlu2RU2de2ePA82CljRRz+n9QeGfq/dZypF1MgGJGezy2UB90W6TRRfLsCn4RdCfFX1HiCRDztbmeIknQxkZH6qkucw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988683337555808/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T21:09:11Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988683337555808",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T21:09:11Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988683337555808",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988683337555808",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63406846:objectType=Conversation",
+        "content": "\u003cp\u003e很烦很无力，我没有任何一条细则支撑我的生活，我在移动中萎缩，质量消耗殆尽的同时又没有散出符合规则的能量，好想凋亡，已经在凋亡，我之前形容为“比起衰老的死亡更像是渐冻症导致的死亡”，但目前看来也不像渐冻症，更像是融化的冰盖，从影像中看来在任何一个时刻都是完好没有伤痕的，最后的融化是自我的尽数丧失，看不出一点原来的状态。细微的不可逆的，汹涌澎湃的自然，人类重又回到了工业革命之前的无力，用鬼神来祈祷灾害的泯灭，用心理咨询和药物来祈祷重建。\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e很烦很无力，我没有任何一条细则支撑我的生活，我在移动中萎缩，质量消耗殆尽的同时又没有散出符合规则的能量，好想凋亡，已经在凋亡，我之前形容为“比起衰老的死亡更像是渐冻症导致的死亡”，但目前看来也不像渐冻症，更像是融化的冰盖，从影像中看来在任何一个时刻都是完好没有伤痕的，最后的融化是自我的尽数丧失，看不出一点原来的状态。细微的不可逆的，汹涌澎湃的自然，人类重又回到了工业革命之前的无力，用鬼神来祈祷灾害的泯灭，用心理咨询和药物来祈祷重建。\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988683337555808/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988683337555808/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988683337555808/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "TF9Ch2sP2w1J/gbdMQlnuTAwin60+fcB9raH7Ub5X4nEHluhLDziCApn5YyomYEUAFAAhySIBAHqJwSYc12Pi+MI/QwC9fkoPyrIgHyNDtKYxwbUflzUt+vaEaSizYOvMQGIh041HdikvtRUw6/OsvaBaXWYhsOLPchWABiIyw5oUCgOUkVqaoaD5Nl3RSxnkJ+O/V3r2ztd6c3uscNMYdljAf5UuQ5PQTusCKEhZ4bheqvk8lpfBtYkuKoDnxX03X7zWsCttX9+T6DEaVYZFM7uaovTo15xzRbWsePnKmKr0psImeeUotViwPzjvPHJrX82L42QiKaWiogibTDlXw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T21:14:31Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622",
+        "published": "2021-09-24T21:14:31Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988704340082770",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770",
+        "inReplyToAtomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988671851475622",
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63406657:objectType=Conversation",
+        "content": "\u003cp\u003e是的要给出解决方式，无论它是残酷的还是愚蠢的，悬空的大楼会在云层之上崩塌，停滞不前的起点是完善的没有错误的，也是因为没有任何成分作为评价的基石\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e是的要给出解决方式，无论它是残酷的还是愚蠢的，悬空的大楼会在云层之上崩塌，停滞不前的起点是完善的没有错误的，也是因为没有任何成分作为评价的基石\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988704340082770/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "MJg285x9yPFn1C/L+/JPk/NdMaGeDlr3/S7Cz3umlcghoK2mOaVDQY9owPV2d+KDJ1o3jpAo7sm3lSKb7aqpzOPZlGwoHbcIv9s9QSjdN7kjRSHi4qzQiG16VaZLRo/ZUVXzkD4GgIpiSmpLJWPG+0pJ7oocS2CPcIgkjwhMVnyUQtn6/pwUOtKW4K2lz9t7iNbTX1lL/W1L7geaq/3G1K5TBX0eZHI0NpSTS/kxbHla+tg6wjkZY44GICQiM/FjwRN6z4ZA0tcNJJgqDZ7xokkuDC/e+tKmhhokjTO918UHVEav6w+fERjv9hBPoatc7rplad4omvs3INsIhjFgVA=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988725782753228/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T21:19:58Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988725782753228",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T21:19:58Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988725782753228",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988725782753228",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63407436:objectType=Conversation",
+        "content": "\u003cp\u003e完美主义约等于停滞不前，除非这个完美建立在低纬度的评价体系上，全是缺口才是现实，准备不完全的前进才是主旋律\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e完美主义约等于停滞不前，除非这个完美建立在低纬度的评价体系上，全是缺口才是现实，准备不完全的前进才是主旋律\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988725782753228/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988725782753228/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988725782753228/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "UL2nvPXSGMGboKovtrBiRGuaGrw4sVNCu9yknUi0OqkJkDT8OT2AfK0dZY1g8T72XUyupjdpMbNVbBPumiH4jDBEr1LYpDoxk6sfqf09nQsGw4hX8wg5qK1M3orD6WaDgzYYheh+EMnO+ke7GPjY/LAZT9ZkH2XIogpj8UKnN9bwD1GpnW21rKNQrjudyre8Z3xBW5OMNZv++qSewNn7wglWVZeWI6xpDGI92iOmpNHZq5r/fyBQYaXCJ9WCyeKNyZO3pMLsWOzVVwZdoPxDvKM48FmpCRh2FhdfKQiBj+XkWqo8qJQCKdRRPnKoFCBTItIdIFjnzuAs0iBh4Zty+A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988769678335901/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T21:31:08Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988769678335901",
+        "type": "Note",
+        "summary": "自杀时请穿好内裤",
+        "inReplyTo": null,
+        "published": "2021-09-24T21:31:08Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988769678335901",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": true,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988769678335901",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63407970:objectType=Conversation",
+        "content": "\u003cp\u003e很长一段时间，解压方式就是坐在窗台上，在凌晨夜色最浓厚的时候，窗台也只是窗框甚至都没有突出的大理石台面。死亡太容易，这时候可以明显地体会到这件事情，我的生死是我自己掌控的，轻易的动作就可以脱身。我看小偶像的综艺，她的面目之下就是遥远的夜景，我住在高层，对面同样的住宅楼遮挡了大半的视线，交通和灯光的噪音流过的方式和头痛的频率有微妙的重叠，偶尔有人经过，不清楚是否被看见过，楼下的流浪猫狗偶尔会在这个时间点路过，似乎和小狗有过对视\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e很长一段时间，解压方式就是坐在窗台上，在凌晨夜色最浓厚的时候，窗台也只是窗框甚至都没有突出的大理石台面。死亡太容易，这时候可以明显地体会到这件事情，我的生死是我自己掌控的，轻易的动作就可以脱身。我看小偶像的综艺，她的面目之下就是遥远的夜景，我住在高层，对面同样的住宅楼遮挡了大半的视线，交通和灯光的噪音流过的方式和头痛的频率有微妙的重叠，偶尔有人经过，不清楚是否被看见过，楼下的流浪猫狗偶尔会在这个时间点路过，似乎和小狗有过对视\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988769678335901/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988769678335901/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988769678335901/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "QGFpjbd6mnVJ9vSigxscJLj88ScE4m8c7pY6V+XDcfpBChBDpraLly6H66X53hgPicU7TJ3V9QOV9af0ySxFlvoYqBT2/S26jI5Fsoz0ZGIlwx0BGdmJZt2OFt3pZrQV/vZhSWwBJfQ44cuQ/Pz5klQkgvCPbd0lCrY4sMABlKcsyDcviphQC5QkN4B7tW+chJREylArB4s3gUCXkhGmWfBlqxfYwhMKvHnM71sSzzox8SL/IXZi1CyxJW7tPWva54UCT2i/LcMZwCkFmJhVXFAoaGFObM5Gd0NHHNCOxNzeiOuYGNgsOuth1bt3Iq2RTMqg1Ihgx0n5Fr6QmJZ1kw=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106988881472419405/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T21:59:34Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106988881472419405",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T21:59:34Z",
+        "url": "https://mstdn.social/@nonpointsfr/106988881472419405",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106988881472419405",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63409336:objectType=Conversation",
+        "content": "\u003cp\u003e光着身子的时候很容易阻止冲动——至少要穿好内裤\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e光着身子的时候很容易阻止冲动——至少要穿好内裤\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106988881472419405/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106988881472419405/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106988881472419405/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "OieVeGIQa0Xd9rampa8wk6nkA7BoU3Hcc+aVuEQK+R9N8pOrLaKygDYs8ff8MOAbBRRc6ZoBUP4iwpg3OnDNrHLP9USDXgeAceXYcWZqeqUE+lW02hD/ruVdG2g1eysJGIUaTfy9QzP39a2u16mc0JFgK+JGyfpg49+nBHvexr1Jk+k+HVF19cuzNXgrsQC53HQCvJ4JJlC/E1zsOS/VDkPGISEiPqTvoZuL3Ss4duR0zaatbUJmMyaT2ZdxlfFMaZBZ6FuqabkK3tACINbeK+9OqQX+yyUkuvZjOCEB6XKqTO36MdKofzZk5kPRlk4Nnztc0QlfUicWZQ5Y3J+y7w=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106989028648188661/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T22:37:00Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106989028648188661",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T22:37:00Z",
+        "url": "https://mstdn.social/@nonpointsfr/106989028648188661",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106989028648188661",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63411000:objectType=Conversation",
+        "content": "\u003cp\u003e她是否在可怜我发射的子弹没有一颗被接到了\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e她是否在可怜我发射的子弹没有一颗被接到了\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106989028648188661/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106989028648188661/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106989028648188661/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "Id0nKwP4PpxUUqaWzJYnLOPwA9PbhLuEHv0jnFhAwqMf2amD0je7WkApoq/UyfTHsFgYZ0amdNlPMUOWDTGEJus0E6Thqbfqu+ZJxggf/jaCKk/iw7yg0nMSM29T8k4940Mm6GtzrvzW+pGe+CCzv+mN2FohpK0q14IYM8sAiu409sAnqFHYKjOa1RA7rKDImbeZyBZjbB2eIcmz8UA+fvqCxhWOTEwKvIQKgECSNdgavmwzEmOzjaib2gDqikSH+hL5ff/Z0vgPdpE4ZqhOSS5pNf34W+76e31cXVy8GEjz3meZJaEwGdzG3G24s4beOOtKtTVuBUjyJ7U0o3Eh3A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106989033314226284/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T22:38:11Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106989033314226284",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T22:38:11Z",
+        "url": "https://mstdn.social/@nonpointsfr/106989033314226284",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106989033314226284",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63411044:objectType=Conversation",
+        "content": "\u003cp\u003e很痛苦也是因为我被迫要感受到，即使我的死亡是一种自利行为，我的生存也是另一种意义上的自利行为，没有一个人真切地愿意去阻止我的死亡\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e很痛苦也是因为我被迫要感受到，即使我的死亡是一种自利行为，我的生存也是另一种意义上的自利行为，没有一个人真切地愿意去阻止我的死亡\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106989033314226284/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106989033314226284/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106989033314226284/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "YH07Pzd6/7zsOVDb9s2zsek71qBWj0WO6XbtXGk7Ey+GefLik6Mw6uk3icRDC6rQ1hzmONFS/bM6+ZV7y5fIepbxV8UobEd9JGHdXeO2yDjYXxSdCvAg7pCRlPaAwHxvs7WeVhtAif7Wz0zIqelycQUe/K0NuI5Lsm88WX5kqkTLm83jawLe7i8utQNiQR9MwdV1pnggcN0YR5NSI8GG/C+KHfd4VLI5c+T9HY4TVuipn/f/B7MJ8FamPMyfdM4sTxepKx1tbCbJsLLaWo/8wyd2iKOnI3Ln2vVps78Bbs8+SGMg7YCBUkqcDDPzlHuB7byk7rtL+SatHY2byt1k7g=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106989059391256271/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-24T22:44:49Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106989059391256271",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-24T22:44:49Z",
+        "url": "https://mstdn.social/@nonpointsfr/106989059391256271",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106989059391256271",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-24:objectId=63411335:objectType=Conversation",
+        "content": "\u003cp\u003e我的恶心也在于注视都向自体\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我的恶心也在于注视都向自体\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106989059391256271/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106989059391256271/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106989059391256271/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "kj4F6FTfyxLQEhgXWY3B2a2+4vRibpe8xgwDPeu6msbkRpcr4IvjaOCM5xYSf4TBcJZd1fkKr+xCMRNYQv9gw5SjkD6npWoSJJw21RdrxzaNfL/S5z/qAZqblPkZux71oCjOjuS1zvRTXYr2UF2MZonnmz+8Mqnkh3NBHjKqTdGsZT4fHFOWFgHygId6qBur8aL9v7axcfb5L03c4qmvNsZK4MGxnTG6nyjGdvQ1l6TxGCCf4+L8RZcf59Uzt+MvjExUQD6or9B0leoXQk917Hwm5MhPr5uiylRunh/KOUAP428QY5W2IUybOaqAc82/9/9xs7/pJav0OQTsLTXc4A=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106989489236563443/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-25T00:34:08Z",
+      "to": ["https://www.w3.org/ns/activitystreams#Public"],
+      "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106989489236563443",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-25T00:34:08Z",
+        "url": "https://mstdn.social/@nonpointsfr/106989489236563443",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://www.w3.org/ns/activitystreams#Public"],
+        "cc": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106989489236563443",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-25:objectId=63415426:objectType=Conversation",
+        "content": "\u003cp\u003e：是无法靠自我注视前进的\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e：是无法靠自我注视前进的\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106989489236563443/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106989489236563443/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106989489236563443/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "PSLx9on8g6ze2MfKwmHuLCVsTyED5FF5SF02ZJGsmQwu9GFdXKT4oEjYOy4lKh0vWmOF+Lw9LHYoB0K5pnRYpr+lbht6cxrIdLXA1Je/TT8UzmmIsyLmwDymYlUYgsJP5fsv3asAGQ4mIsK5PQP9V53bilpiIjb+522zpmR+3GywFyENuFw5w0WP8P+P+LmYC8way3fm2vokwXbE2tEGqebj/pQ8WRnMPc3IhA0A1Tosd/ktitdaXpM6cj764JGg4xbPr6uPOoRz5Jt3W4fr1ME6ENS3B+DkQftf0qISHGcWOA+9NG1Zti8EzXgXw6BdWbBY62nViP3wQeq4lBKDYQ=="
+      }
+    },
+    {
+      "id": "https://mstdn.social/users/nonpointsfr/statuses/106993008270796977/activity",
+      "type": "Create",
+      "actor": "https://mstdn.social/users/nonpointsfr",
+      "published": "2021-09-25T15:29:04Z",
+      "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+      "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+      "object": {
+        "id": "https://mstdn.social/users/nonpointsfr/statuses/106993008270796977",
+        "type": "Note",
+        "summary": null,
+        "inReplyTo": null,
+        "published": "2021-09-25T15:29:04Z",
+        "url": "https://mstdn.social/@nonpointsfr/106993008270796977",
+        "attributedTo": "https://mstdn.social/users/nonpointsfr",
+        "to": ["https://mstdn.social/users/nonpointsfr/followers"],
+        "cc": ["https://www.w3.org/ns/activitystreams#Public"],
+        "sensitive": false,
+        "atomUri": "https://mstdn.social/users/nonpointsfr/statuses/106993008270796977",
+        "inReplyToAtomUri": null,
+        "conversation": "tag:mstdn.social,2021-09-25:objectId=63458547:objectType=Conversation",
+        "content": "\u003cp\u003e我能做出的唯一选择就是远离厌恶我的人\u003c/p\u003e",
+        "contentMap": {
+          "zh": "\u003cp\u003e我能做出的唯一选择就是远离厌恶我的人\u003c/p\u003e"
+        },
+        "attachment": [],
+        "tag": [],
+        "replies": {
+          "id": "https://mstdn.social/users/nonpointsfr/statuses/106993008270796977/replies",
+          "type": "Collection",
+          "first": {
+            "type": "CollectionPage",
+            "next": "https://mstdn.social/users/nonpointsfr/statuses/106993008270796977/replies?only_other_accounts=true\u0026page=true",
+            "partOf": "https://mstdn.social/users/nonpointsfr/statuses/106993008270796977/replies",
+            "items": []
+          }
+        }
+      },
+      "signature": {
+        "type": "RsaSignature2017",
+        "creator": "https://mstdn.social/users/nonpointsfr#main-key",
+        "created": "2021-09-25T21:35:10Z",
+        "signatureValue": "pn4Red7oy6Q8m1ZrrqPbdycLr1hYMmymfWGoI7xvJ8DnrEjRgtgDpstQmsdwfp8cvCUbmLFrqjhC0XMS9zzdWu/1bdk77RuPw8PcwulLBUNhCtm5GKJJ31mo9/ce3MlbJ2VMyx16eGWzSJoB80bTrvj06Z8fXbvD2PemQ2wpTmlaQpCjbKpudCSnR4ZXPXfaU/qw3AwIeGP+fUsol8oNt70BwZZbubs4z0uDMZhVgd5x193rHwJWjDXXNAc10GoiBFh0bSpiNhHqY8AwXx3dD5zUF7zCZByn414AGBQ8PClxn9nuzheN2uEUgQnCAN60oBQBAJGTwnOQLYUjMFJ/QQ=="
+      }
+    }
+  ]
+}

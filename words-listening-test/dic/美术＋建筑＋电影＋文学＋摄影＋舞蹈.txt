@@ -1,0 +1,148 @@
+brush 
+bust 
+canvas 
+caricature 
+charcoal drawing 
+copy 
+drawing board 
+engraving 
+fake 
+figurine 
+fine arts 
+fresco 
+gallery 
+
+landscape painting 
+lithograph 
+mix colors 
+mural 
+mural 
+Oil painting 
+original 
+pastel 
+perspective 
+portrait 
+replica 
+reproduction 
+sculptor 
+sculpture 
+sketch 
+statue 
+life 
+water color 
+sculptor 
+framed 
+metal grid 
+aquarium 
+architecture 
+architect 
+archives 
+beam 
+building material 
+building technique 
+cabin 
+castle 
+cathedral 
+construction 
+construct 
+design 
+design element 
+elevator 
+gas station 
+glass box 
+log structure 
+
+mosque 
+new material 
+office building 
+planetarium 
+prototype 
+pyramid 
+repair person 
+skyscraper 
+style 
+ten stories high 
+the Statue of 
+the Triumphal Arch 
+wing 
+animated cartoon 
+cameraman 
+caption 
+
+cast 
+
+director 
+
+editing 
+feature film 
+illumination 
+light effect 
+shot 
+montage 
+newsreel 
+review 
+script 
+setting 
+shoot film 
+sound effect 
+studio 
+theme song 
+
+background 
+camera lens 
+
+darkroom 
+depth of field 
+developing 
+enlarge 
+exposure 
+focus 
+foreground 
+high definition 
+instant camera 
+lens 
+focus lens 
+out of focus 
+panorama 
+photograph 
+photographer 
+snap shot 
+tripod 
+wide angle lens 
+prose 
+diary 
+autobiography 
+editorial 
+narrative prose 
+descriptive prose 
+essay 
+Leading character 
+main plot 
+literary criticism 
+Literary studies 
+Schools of literature 
+Comparative literature 
+Realism 
+Modernism 
+Aestheticism 
+protagonist 
+vignette 
+prolific 
+dance 
+let 
+choreographer 
+choreography 
+corps ballet 
+dancer 
+disco 
+discotheque 
+foxtrot 
+pas 
+pas 
+pas 
+ballerina 
+ballerina 
+
+tango 
+waltz 
+choreographer 
