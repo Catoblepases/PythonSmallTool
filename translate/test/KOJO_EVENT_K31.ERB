@@ -1,0 +1,68 @@
+﻿
+;-------------------------------------------------
+IF LOCAL && FAVOR(3000, 3000)
+	;-------------------------------------------------
+	;小分岐
+	;-------------------------------------------------
+	;初回
+	;記入チェック
+	LOCAL:1 = 1
+	;-------------------------------------------------
+	IF LOCAL:1 && FIRSTTIME(50)
+		PRINTFORMDL 訪れた%CALLNAME:TARGET%の様子がいつもより落ち着き無い事に気付き、%CALLNAME:MASTER%は首を傾げてどうしたのかと問い掛ける
+		PRINTFORMDL %CALLNAME:TARGET%は声を掛けられると狼狽し、所在なげに視線を彷徨わせていたが、やがて懐から何かを取り出し、%CALLNAME:MASTER%に差し出した
+		PRINTFORMDL %CALLNAME:MASTER%の目の前に差し出されたのは、美しく咲き誇っている桜の枝だった
+		PRINTFORMW 「あんたに、似合うと思って、だから」
+		PRINTFORMDL ぶっきらぼうにそう答えると、%CALLNAME:TARGET%は朱に染まっていく顔を隠す様に布で覆って目を背ける
+		PRINTFORMW 「…最初は、あんたが手に入りさえすれば、それだけで良いと思っていた」
+		PRINTFORMW 「でも、满意なんて出来なかった。時間が経てば経つほど…あんたの心まで、欲しくなる」
+		PRINTFORMW
+		PRINTFORMW 「………あんたが、好きなんだ」
+		PRINTFORMDL か細く呟くと、俯いた%CALLNAME:TARGET%の頬に、桜の枝を持ったままの%CALLNAME:MASTER%の手が添えられた
+		PRINTFORMDL 予想外の行動に驚いた%CALLNAME:TARGET%が瞠目し顔を上げると、%CALLNAME:MASTER%ははにかみながら貴方の方が良く似合う、と笑う
+		PRINTFORMDL 言葉の意味を飲み込めず呆気に取られている%CALLNAME:TARGET%に自分も好きだと告げると、%CALLNAME:TARGET%は更に顔を赤くして口元を手で覆った
+		PRINTFORMW 「…本気で、言ってるのか？からかってる訳じゃ、ないのか」
+		PRINTFORMDW 恐る恐る%CALLNAME:TARGET%が尋ねると、%CALLNAME:MASTER%は嘘じゃないと强く答え、%CALLNAME:TARGET%の背に腕を回す
+		PRINTFORMDW 一瞬狼狽した%CALLNAME:TARGET%だが、やがて意を決した様に%CALLNAME:MASTER%を思い切り抱きしめると、もう一度、好きだと囁いた
+		PRINTFORMW
+		PRINTFORMW
+		RETURN LOCAL
+	ENDIF
+	
+;一般
+	PRINTFORMW 「…待ちきれないんだ、早くあんたが、欲しい…あんたは、どうなんだ？」
+	PRINTFORMW 「……そうか。それなら、良かった」
+	RETURN LOCAL
+ENDIF
+
+;-------------------------------------------------
+;調教完了（好意2000以上） FIRSTTIME(1)
+;-------------------------------------------------
+;・調教対象が口上主にもうメロメロ
+;-------------------------------------------------
+;記入チェック
+LOCAL = 1
+;-------------------------------------------------
+IF LOCAL && FAVOR(2000)
+	;-------------------------------------------------
+	;小分岐
+	;-------------------------------------------------
+	;初回
+	;記入チェック
+	LOCAL:1 = 1
+	;-------------------------------------------------
+	IF LOCAL:1 && FIRSTTIME(1)
+		PRINTFORMDW いつもと同じ様に訪れた%CALLNAME:TARGET%は、見上げてくる%CALLNAME:MASTER%の顔がいつもより赤みを帯びている事に気付いて覗き込んだ。
+		PRINTFORMW 「…顔が赤いぞ。熱でもあるんじゃないのか」
+		PRINTFORMDW 体温を確かめようとする%CALLNAME:TARGET%に違うと返し、%CALLNAME:MASTER%は%CALLNAME:TARGET%の胸に顔を埋める。
+		PRINTFORMDW 予想していなかった行動に瞠目する%CALLNAME:TARGET%に、触れて欲しいと囁くと%CALLNAME:TARGET%は頬を赤らめた。
+		PRINTFORMW 「…あんた…本当に、良いのか？」
+		PRINTFORMDW 恐る恐る問いかけた言葉に%CALLNAME:MASTER%が頷くと、%CALLNAME:TARGET%は%CALLNAME:MASTER%のつむじに小さく唇を落とした。
+		RETURN LOCAL
+	ENDIF
+	
+;一般
+	PRINTFORMW 「…あまりじゃれついてくれるな。なんだ、その…困る」
+	PRINTFORMW 「ああ、分かってる。あんたが望むなら、なんでもするさ」
+	RETURN LOCAL
+ENDIF
