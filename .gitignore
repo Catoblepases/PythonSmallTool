@@ -164,3 +164,9 @@ cython_debug/
 
 #cosmo
 test.py
+*.txt
+*.md
+*.png
+*.ERB
+translate
+*.apkg
