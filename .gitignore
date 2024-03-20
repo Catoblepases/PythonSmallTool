@@ -163,10 +163,12 @@ cython_debug/
 .DS_Store
 
 #cosmo
-test.py
-*.txt
-*.md
+*test*
+*output*
+*inbox*
 *.png
 *.ERB
 translate
 *.apkg
+*backup*
+*Websites*
