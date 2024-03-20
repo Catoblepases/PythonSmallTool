@@ -172,3 +172,5 @@ translate
 *.apkg
 *backup*
 *Websites*
+*/video/*
+*.mp4
